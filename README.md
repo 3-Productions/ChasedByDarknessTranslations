@@ -13,7 +13,7 @@ Receive news of new content in advance. <br />
 (We are looking into the possibility of exclusive skin.)
 
 
-Want to add a new language? Email for Glaicon at glaiconffelipe@southbluemoon.com or send a message on Discord - GlaiconFFBR#3891
+Want to add a new language or have questions? Email for Glaicon at glaiconffelipe@southbluemoon.com or send a message on Discord - GlaiconFFBR#3891
 
 
 # Tips:
