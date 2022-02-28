@@ -2,12 +2,16 @@
 
 This project aims to allow the community to translate the game and adapt it to their culture.
 
-This community translation project is completely voluntary. Your contribution will appear in the main game's credits listing.
+This community translation project is completely voluntary. 
 
 By contributing to this project, you will receive:
 
+Your contribution will appear in the main game's credits listing. <br />
 Translator role on Chased by Darkness Discord Server. <br />
-Chance to participate on new maps Beta Tests
+Chance to participate on new maps Beta Tests. <br />
+Receive new content news in advance. <br />
+(We are looking into the possibility of exclusive characters.)
+
 
 
 
@@ -22,19 +26,8 @@ If necessary, you are free to consult a dictionary.
 
 
 
+
 # How to translate:
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
