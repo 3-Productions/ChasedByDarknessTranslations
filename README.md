@@ -30,6 +30,8 @@ Avoid automatic translators (like Google Translate) as much as possible.
 
 If necessary, you can consult a dictionary.
 
+Respect uppercase and lowercase letters.
+
 
 
 
