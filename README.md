@@ -4,18 +4,20 @@ This project aims to allow the community to translate the game and adapt it to t
 
 This community translation project is completely voluntary. 
 
-By contributing to this project, you will receive:
+By contributing to this project, you will receive the Translator role on Chased by Darkness Discord Server, which will grant:
 
-Translator role on Chased by Darkness Discord Server. <br />
 Your contribution will appear in the game's credits. <br />
 Chance to participate in new map Beta tests. <br />
 Receive news of new content in advance. <br />
-(We are looking into the possibility of exclusive skin.)
+(We are looking into the possibility of exclusive a skin in the game.)
 
 
 Want to add a new language or have questions? Email for Glaicon at glaiconffelipe@southbluemoon.com or send a message on Discord - GlaiconFFBR#3891
 
+
 Chased by Darkness Official Discord - https://discord.gg/7Ncna2P7hH
+PM me on Discord - GlaiconFFBR#3891 - so I can give you the Translator role.
+
 
 Thanks for taking an interest in participating in the community translation, your support is very important!
 
