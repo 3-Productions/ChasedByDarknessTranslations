@@ -1,0 +1,5165 @@
+﻿{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Children": [
+		{
+			"Source":
+			{
+				"Text": "According to the attack's description, it is an Ancestral Spirit."
+			},
+			"Translation":
+			{
+				"Text": "Laut Beschreibung des Angriffs handelt es sich um einen Ahnengeist."
+			},
+			"Key": "CFE2B8DB475906278F95CCBF6C16EB5B"
+		},
+		{
+			"Source":
+			{
+				"Text": "After Charlie was arrested, Barkannan started to act."
+			},
+			"Translation":
+			{
+				"Text": "Nachdem Charlie verhaftet wurde, begann Barkannan zu handeln."
+			},
+			"Key": "6705906940FD9D0E8E4AE9B19F0948FF"
+		},
+		{
+			"Source":
+			{
+				"Text": "After the prison was evacuated, you were called in to deal with the situation."
+			},
+			"Translation":
+			{
+				"Text": "Nach der Räumung des Gefängnisses wurden Sie gerufen, um sich mit der Situation zu befassen."
+			},
+			"Key": "75CE705A4CCECB67E1BA32BE8DA1E1A8"
+		},
+		{
+			"Source":
+			{
+				"Text": "As part of the job, you had to sign the terms for not disclosing case information."
+			},
+			"Translation":
+			{
+				"Text": "Im Rahmen der Arbeit mussten Sie die Bedingungen für die Nichtweitergabe von Fallinformationen unterschreiben."
+			},
+			"Key": "91B0F229420689F79FD6668F98739B66"
+		},
+		{
+			"Source":
+			{
+				"Text": "Authorities treated the victims' reports as collective hysteria."
+			},
+			"Translation":
+			{
+				"Text": "Die Behörden behandelten die Berichte der Opfer als kollektive Hysterie."
+			},
+			"Key": "0A750AE44666DED92A6242B551189730"
+		},
+		{
+			"Source":
+			{
+				"Text": "Barkannan influenced a mass suicide attempt in the penitentiary."
+			},
+			"Translation":
+			{
+				"Text": "Barkannan beeinflusste einen Massenselbstmordversuch im Gefängnis."
+			},
+			"Key": "12ED3B5C409904C9CF1E48B7516C6647"
+		},
+		{
+			"Source":
+			{
+				"Text": "Barkannan is a bestial spirit who created a connection with Charlie Richards, a serial killer."
+			},
+			"Translation":
+			{
+				"Text": "Barkannan ist ein bestialischer Geist, der eine Verbindung zu Charlie Richards, einem Serienmörder, hergestellt hat."
+			},
+			"Key": "10C8246C42F586F90C1EF283D4198EC3"
+		},
+		{
+			"Source":
+			{
+				"Text": "But beware, Ancestral Spirits are never alone."
+			},
+			"Translation":
+			{
+				"Text": "Aber Vorsicht, Ahnengeister sind nie allein."
+			},
+			"Key": "994A512C4FAEAB414492B092FBA34134"
+		},
+		{
+			"Source":
+			{
+				"Text": "But his appearance at the Paradise Motel intrigued me."
+			},
+			"Translation":
+			{
+				"Text": "Aber seine Ankunft im Paradise Motel faszinierte mich."
+			},
+			"Key": "9FB7525D4FF08870296EF6A71F53E1C8"
+		},
+		{
+			"Source":
+			{
+				"Text": "But you only have 3 bullets, use it wisely."
+			},
+			"Translation":
+			{
+				"Text": "Aber Sie haben nur 3 Kugeln, verwenden Sie es mit Bedacht."
+			},
+			"Key": "0FBA4F294240029DD0469CB1BFC5A314"
+		},
+		{
+			"Source":
+			{
+				"Text": "Deactivate the orbs to remove the spirit's protection and manage to weaken it for banishment."
+			},
+			"Translation":
+			{
+				"Text": "Deaktiviere die Kugeln, um den Schutz des Geistes zu entfernen und ihn für die Verbannung zu schwächen."
+			},
+			"Key": "A25DAA3B49B103B3A5F7D7895D0365A5"
+		},
+		{
+			"Source":
+			{
+				"Text": "Feeding it will make it stronger,"
+			},
+			"Translation":
+			{
+				"Text": "Wenn du es fütterst, wird es stärker,"
+			},
+			"Key": "E696AF6E48A5CEFDFBFD7BA5C1AB9484"
+		},
+		{
+			"Source":
+			{
+				"Text": "Find a way to feed the spirit of gluttony with meat,"
+			},
+			"Translation":
+			{
+				"Text": "Finden Sie einen Weg, den Geist der Völlerei mit Fleisch zu nähren,"
+			},
+			"Key": "AEC1921546D411712E2BB393C220D08A"
+		},
+		{
+			"Source":
+			{
+				"Text": "Find the Brogloton’s Table and feed him."
+			},
+			"Translation":
+			{
+				"Text": "Finde den Brogloton-Tisch und füttere ihn."
+			},
+			"Key": "3F3FFD714AE21B9B6CC4CBB718FCFF24"
+		},
+		{
+			"Source":
+			{
+				"Text": "First, you need to reactivate the energy."
+			},
+			"Translation":
+			{
+				"Text": "Zuerst müssen Sie die Energie reaktivieren."
+			},
+			"Key": "4BD2A0CC42AF8434B59E69915A3A6B93"
+		},
+		{
+			"Source":
+			{
+				"Text": "For reasons still unknown, a spirit ended up making victims at the Paradise Motel."
+			},
+			"Translation":
+			{
+				"Text": "Aus noch unbekannten Gründen fiel im Paradise Motel ein Geist zum Opfer."
+			},
+			"Key": "034B73D14BEEDAFA25B4FA8A29E580B4"
+		},
+		{
+			"Source":
+			{
+				"Text": "Hello?"
+			},
+			"Translation":
+			{
+				"Text": "Hallo?"
+			},
+			"Key": "EDC137AF4EA8732D0612EEA973E26A64"
+		},
+		{
+			"Source":
+			{
+				"Text": "Knowing that Barkannan will not be the last bothers me,"
+			},
+			"Translation":
+			{
+				"Text": "Zu wissen, dass Barkannan nicht der letzte sein wird, stört mich,"
+			},
+			"Key": "D8C4FC1F47C8D2543D6B74ADFE0AC2DF"
+		},
+		{
+			"Source":
+			{
+				"Text": "Oh, I need to let you know that the director hasn't returned my calls, so stay tuned."
+			},
+			"Translation":
+			{
+				"Text": "Oh, ich muss Sie wissen lassen, dass der Direktor meine Anrufe nicht beantwortet hat, also bleiben Sie dran."
+			},
+			"Key": "19F85E0449B5C3833F900C8F0331A36B"
+		},
+		{
+			"Source":
+			{
+				"Text": "Ok, I’m going to recap."
+			},
+			"Translation":
+			{
+				"Text": "Okay, ich rekapituliere."
+			},
+			"Key": "236F47164476977597A95F8679B0E20F"
+		},
+		{
+			"Source":
+			{
+				"Text": "One of the guests who escaped asked for our help."
+			},
+			"Translation":
+			{
+				"Text": "Einer der entkommenen Gäste bat um unsere Hilfe."
+			},
+			"Key": "34AA9C3C4B7B810A60F5E18EBD4A2725"
+		},
+		{
+			"Source":
+			{
+				"Text": "Second, collect the Obsessors' Soul Stones. And then, find the Barkannan’s spiritual bonfire and destroy the Soul Stones."
+			},
+			"Translation":
+			{
+				"Text": "Zweitens, sammle die Seelensteine der Besessenen. Und dann finde das spirituelle Lagerfeuer des Barkannan und zerstöre die Seelensteine."
+			},
+			"Key": "7324153749F9EC291B9E078C508C7F2C"
+		},
+		{
+			"Source":
+			{
+				"Text": "Since this is a spirit that needs a body to possess, you will need to make the spirit leave the host body,"
+			},
+			"Translation":
+			{
+				"Text": "Da dies ein Geist ist, der einen Körper braucht, um ihn zu besitzen, müssen Sie den Geist dazu bringen, den Wirtskörper zu verlassen."
+			},
+			"Key": "CE2203E3476A2ADFAC9CC088B08A37E3"
+		},
+		{
+			"Source":
+			{
+				"Text": "So for today the job is done."
+			},
+			"Translation":
+			{
+				"Text": "Für heute ist die Arbeit also erledigt."
+			},
+			"Key": "ADD6CE804DCDF384202760B9FB11CB05"
+		},
+		{
+			"Source":
+			{
+				"Text": "Sometimes, a person ends up attracting certain entities,"
+			},
+			"Translation":
+			{
+				"Text": "Manchmal zieht eine Person bestimmte Wesen an,"
+			},
+			"Key": "F01DC0F14A39D3F839FF0AA3A92A825F"
+		},
+		{
+			"Source":
+			{
+				"Text": "The Ancestral Spirit used the energy he acquired to summon Orbs of Protection."
+			},
+			"Translation":
+			{
+				"Text": "Der Ahnengeist nutzte die Energie, die er erworben hatte, um Schutzkugeln zu beschwören."
+			},
+			"Key": "5158D2D2494CA515818D7AAC43F799B9"
+		},
+		{
+			"Source":
+			{
+				"Text": "The banishment of Brogloton has been carried out successfully."
+			},
+			"Translation":
+			{
+				"Text": "Die Verbannung von Brogloton wurde erfolgreich durchgeführt."
+			},
+			"Key": "4F376320423F3C698CC2AB941AA5B145"
+		},
+		{
+			"Source":
+			{
+				"Text": "They are more powerful than common spirits, and need a host to obey the summoner's orders."
+			},
+			"Translation":
+			{
+				"Text": "Sie sind mächtiger als gewöhnliche Geister und brauchen einen Wirt, um den Befehlen des Beschwörers zu gehorchen."
+			},
+			"Key": "B029C9C141D48AF298F1CDA864AA0758"
+		},
+		{
+			"Source":
+			{
+				"Text": "This is strange…"
+			},
+			"Translation":
+			{
+				"Text": "Das ist merkwürdig…"
+			},
+			"Key": "2BA641124BDAD2DB0673E3A33AF3D522"
+		},
+		{
+			"Source":
+			{
+				"Text": "Two spirit attacks that left casualties,"
+			},
+			"Translation":
+			{
+				"Text": "Zwei Geisterangriffe, die Verluste hinterließen,"
+			},
+			"Key": "0FDF25854E639DF69C503E886589BCED"
+		},
+		{
+			"Source":
+			{
+				"Text": "Use the explosive ammo, it has more stun power."
+			},
+			"Translation":
+			{
+				"Text": "Verwenden Sie die explosive Munition, sie hat mehr Betäubungskraft."
+			},
+			"Key": "6BEB2F4240B7425A6E098CA58B904765"
+		},
+		{
+			"Source":
+			{
+				"Text": "Wait, on a ship?"
+			},
+			"Translation":
+			{
+				"Text": "Warte, auf einem Schiff?"
+			},
+			"Key": "FF92E5F24959339D3BA4D7A1D965C353"
+		},
+		{
+			"Source":
+			{
+				"Text": "When summoned, they bring with them their lackeys,"
+			},
+			"Translation":
+			{
+				"Text": "Wenn sie gerufen werden, bringen sie ihre Lakaien mit,"
+			},
+			"Key": "DBD52AAA4CDDE5336077C582062576B3"
+		},
+		{
+			"Source":
+			{
+				"Text": "With Barkannan banished to the spiritual plane, the other spirits began to disappear."
+			},
+			"Translation":
+			{
+				"Text": "Nachdem Barkannan auf die spirituelle Ebene verbannt war, begannen die anderen Geister zu verschwinden."
+			},
+			"Key": "C70FB1064C737FCBD9160C823C535857"
+		},
+		{
+			"Source":
+			{
+				"Text": "and only then can the banishment be carried out."
+			},
+			"Translation":
+			{
+				"Text": "und erst dann kann die Verbannung vollzogen werden."
+			},
+			"Key": "3CC2D4B648047E81DB36D28B32B18943"
+		},
+		{
+			"Source":
+			{
+				"Text": "and two brothers of the Richards family were at the scene."
+			},
+			"Translation":
+			{
+				"Text": "und zwei Brüder der Familie Richards waren vor Ort."
+			},
+			"Key": "96F0525F422B44694874F2961070B389"
+		},
+		{
+			"Source":
+			{
+				"Text": "but it will eventually leave the host's body and assume its true form,"
+			},
+			"Translation":
+			{
+				"Text": "aber es wird schließlich den Körper des Wirts verlassen und seine wahre Form annehmen,"
+			},
+			"Key": "C0B807934F7B25D1850513A18875520D"
+		},
+		{
+			"Source":
+			{
+				"Text": "but our job is not to speculate about the cases, but to eliminate the threats."
+			},
+			"Translation":
+			{
+				"Text": "aber unsere Aufgabe ist es nicht, über die Fälle zu spekulieren, sondern die Bedrohungen zu beseitigen."
+			},
+			"Key": "07B33F744E3709939AFFF8BD7822A96F"
+		},
+		{
+			"Source":
+			{
+				"Text": "but what makes me relieved is to know that when a new problem arises,"
+			},
+			"Translation":
+			{
+				"Text": "Aber was mich erleichtert, ist zu wissen, dass wenn ein neues Problem auftaucht,"
+			},
+			"Key": "E90BD88D4D7A2829C8E84CBF332518A7"
+		},
+		{
+			"Source":
+			{
+				"Text": "creating a strong connection and making those entities stronger."
+			},
+			"Translation":
+			{
+				"Text": "eine starke Verbindung zu schaffen und diese Einheiten stärker zu machen."
+			},
+			"Key": "6B7659AC47ADF840D12DA68C1E12F0E9"
+		},
+		{
+			"Source":
+			{
+				"Text": "creatures of the underworld subservient to the summoned spirit."
+			},
+			"Translation":
+			{
+				"Text": "Kreaturen der Unterwelt, die dem beschworenen Geist untertan sind."
+			},
+			"Key": "369D912648EDAA9BE7884C92579EC097"
+		},
+		{
+			"Source":
+			{
+				"Text": "it feeds on the energy that the living being had in life."
+			},
+			"Translation":
+			{
+				"Text": "es ernährt sich von der Energie, die das Lebewesen im Leben hatte."
+			},
+			"Key": "BAED9B7440EFD35E98EE8E8FFA5CA971"
+		},
+		{
+			"Source":
+			{
+				"Text": "otherwise the banishment cannot be performed."
+			},
+			"Translation":
+			{
+				"Text": "andernfalls kann die Verbannung nicht durchgeführt werden."
+			},
+			"Key": "ED84A29A4FAC58D66028B798C6D299DF"
+		},
+		{
+			"Source":
+			{
+				"Text": "you will be there."
+			},
+			"Translation":
+			{
+				"Text": "Du wirst dort sein."
+			},
+			"Key": "6C28D9CA4A9938C53C401889432F0F9F"
+		}
+	],
+	"Subnamespaces": [
+		{
+			"Namespace": "ST_Audio",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AUDIO"
+					},
+					"Translation":
+					{
+						"Text": "AUDIO"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completely enable or disable voice chat."
+					},
+					"Translation":
+					{
+						"Text": "Aktivieren oder deaktivieren Sie den Voice-Chat vollständig."
+					},
+					"Key": "D_ChatVoiceEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls if voice chat will be captured automatically while speaking (voice activated) or only while push the Push to Talk hotkey is pressed."
+					},
+					"Translation":
+					{
+						"Text": "Steuert, ob der Sprachchat beim Sprechen automatisch aufgezeichnet wird (Sprache aktiviert) oder nur, wenn der Push-to-Talk-Hotkey gedrückt wird."
+					},
+					"Key": "D_ChatMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the microphone for voice chat. If set to Off but the Voice Chat Enabled is set to On, inbound voice chat will still be present."
+					},
+					"Translation":
+					{
+						"Text": "Steuert das Mikrofon für den Voice-Chat. Wenn auf Aus eingestellt, aber Voice Chat aktiviert auf Ein gesetzt ist, ist der eingehende Voice-Chat weiterhin vorhanden."
+					},
+					"Key": "D_MicEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the overall volume of in-game sounds, dialogue and music."
+					},
+					"Translation":
+					{
+						"Text": "Steuert die Gesamtlautstärke von Sounds, Dialogen und Musik im Spiel."
+					},
+					"Key": "D_SoundVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the overall volume of the musical score."
+					},
+					"Translation":
+					{
+						"Text": "Steuert die Gesamtlautstärke der Musikpartitur."
+					},
+					"Key": "D_ScoreVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of dialogue relative to SFX and music."
+					},
+					"Translation":
+					{
+						"Text": "Steuert die Lautstärke des Dialogs relativ zu SFX und Musik."
+					},
+					"Key": "D_DialogVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of inbound voice chat."
+					},
+					"Translation":
+					{
+						"Text": "Steuert die Lautstärke des eingehenden Voice-Chats."
+					},
+					"Key": "D_ChatVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of your inbound voice chat."
+					},
+					"Translation":
+					{
+						"Text": "Steuert die Lautstärke Ihres eingehenden Voice-Chats."
+					},
+					"Key": "D_MicVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIALOGUE BALANCE"
+					},
+					"Translation":
+					{
+						"Text": "DIALOGBILANZ"
+					},
+					"Key": "DialogBalance"
+				},
+				{
+					"Source":
+					{
+						"Text": "INPUT DEVICE"
+					},
+					"Translation":
+					{
+						"Text": "EINGABEGERÄT"
+					},
+					"Key": "VC_InDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "LATENCY"
+					},
+					"Translation":
+					{
+						"Text": "LATENZ"
+					},
+					"Key": "Latency"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE ENABLED"
+					},
+					"Translation":
+					{
+						"Text": "MIKROFON AKTIVIERT"
+					},
+					"Key": "VC_MicEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "MIKROFONEMPFINDLICHKEIT"
+					},
+					"Key": "VC_MicSensivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "MIKROFONLAUTSTÄRKE"
+					},
+					"Key": "VC_MicVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "MUSICAL VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "MUSIKLAUTSTÄRKE"
+					},
+					"Key": "ScoreVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT"
+					},
+					"Translation":
+					{
+						"Text": "AUSGANG"
+					},
+					"Key": "Output"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT DEVICE"
+					},
+					"Translation":
+					{
+						"Text": "AUSGABEGERÄT"
+					},
+					"Key": "VC_OutDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "PUSH TO TALK"
+					},
+					"Translation":
+					{
+						"Text": "DRÜCKEN, UM ZU SPRECHEN"
+					},
+					"Key": "VC_Mode_Push"
+				},
+				{
+					"Source":
+					{
+						"Text": "SOUND VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "LAUTSTÄRKE"
+					},
+					"Key": "SoundVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the Speakers or Headphones used for voice chat audio playback."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie die Lautsprecher oder Kopfhörer aus, die für die Audiowiedergabe des Voice-Chats verwendet werden."
+					},
+					"Key": "D_OutputDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the input device for capturing outbound voice chat audio."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie das Eingabegerät für die Aufnahme von ausgehendem Voice-Chat-Audio aus."
+					},
+					"Key": "D_InputDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE ACTIVATED"
+					},
+					"Translation":
+					{
+						"Text": "STIMME AKTIVIERT"
+					},
+					"Key": "VC_Mode_Open"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT"
+					},
+					"Translation":
+					{
+						"Text": "SPRACHCHAT"
+					},
+					"Key": "Topic_VoiceChat"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT ENABLED"
+					},
+					"Translation":
+					{
+						"Text": "SPRACHCHAT AKTIVIERT"
+					},
+					"Key": "VC_Enabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT MODE"
+					},
+					"Translation":
+					{
+						"Text": "SPRACHCHAT-MODUS"
+					},
+					"Key": "VC_Mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "SPRACHCHAT-LAUTSTÄRKE"
+					},
+					"Key": "VC_Volume"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_BrightnessCalibration",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "BRIGHTNESS CALIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "HELLIGKEITSKALIBRIERUNG"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please calibrate your display."
+					},
+					"Translation":
+					{
+						"Text": "Bitte kalibrieren Sie Ihr Display."
+					},
+					"Key": "Info"
+				},
+				{
+					"Source":
+					{
+						"Text": "The background image on the left should be nearly invisible and the background image on the right should be clearly visible."
+					},
+					"Translation":
+					{
+						"Text": "Das Hintergrundbild auf der linken Seite sollte fast unsichtbar sein und das Hintergrundbild auf der rechten Seite sollte deutlich sichtbar sein."
+					},
+					"Key": "Description"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Controls",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Adjust the Aim Look Sensitivity setting."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Einstellung für die Ziel-Look-Empfindlichkeit an."
+					},
+					"Key": "D_MouseSensitivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the X-axis sensitivity."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Empfindlichkeit der X-Achse an."
+					},
+					"Key": "D_MouseX"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the Y-axis sensitivity."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Empfindlichkeit der Y-Achse an."
+					},
+					"Key": "D_MouseY"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER"
+					},
+					"Translation":
+					{
+						"Text": "REGLER"
+					},
+					"Key": "Topic_Gamepad"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER DISPLAY"
+					},
+					"Translation":
+					{
+						"Text": "CONTROLLER-ANZEIGE"
+					},
+					"Key": "ControllerDisplay"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER X SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "CONTROLLER X-EMPFINDLICHKEIT"
+					},
+					"Key": "ControllerXSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER Y SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "CONTROLLER Y-EMPFINDLICHKEIT"
+					},
+					"Key": "ControllerYSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLS"
+					},
+					"Translation":
+					{
+						"Text": "STEUERUNG"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choose to have Vibration feedback from the controller."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie Vibrations-Feedback vom Controller."
+					},
+					"Key": "D_Vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "Customize your keyboard and mouse mappings."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie Ihre Tastatur- und Mauszuordnungen an."
+					},
+					"Key": "D_KeyMapping"
+				},
+				{
+					"Source":
+					{
+						"Text": "IGNORE CONTROLLER"
+					},
+					"Translation":
+					{
+						"Text": "CONTROLLER IGNORIEREN"
+					},
+					"Key": "IgnoreController"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT HORIZONTAL"
+					},
+					"Translation":
+					{
+						"Text": "HORIZONTAL INVERTIEREN"
+					},
+					"Key": "InvertHorizontal"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT LOOK"
+					},
+					"Translation":
+					{
+						"Text": "ENTGEGENGESETZTE SICHTWEISE"
+					},
+					"Key": "InvertLook"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT VERTICAL"
+					},
+					"Translation":
+					{
+						"Text": "VERTIKALE INVERTIEREN"
+					},
+					"Key": "InvertVertical"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignore controller commands."
+					},
+					"Translation":
+					{
+						"Text": "Controller-Befehle ignorieren."
+					},
+					"Key": "D_IgnoreController"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the Y-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "Kehren Sie die Y-Achse der Hauptkamera und der Zielsteuerung um."
+					},
+					"Key": "D_InvertLookContoller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the mouse X-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "Kehren Sie die X-Achse der Maus der Hauptkamera und der Zielsteuerung um."
+					},
+					"Key": "D_InvertHorizontal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the mouse Y-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "Kehren Sie die Maus-Y-Achse der Hauptkamera und der Zielsteuerung um."
+					},
+					"Key": "D_InvertVertical"
+				},
+				{
+					"Source":
+					{
+						"Text": "KEY MAPPING"
+					},
+					"Translation":
+					{
+						"Text": "SCHLÜSSELMAPPING"
+					},
+					"Key": "KeyMapping"
+				},
+				{
+					"Source":
+					{
+						"Text": "KEYBOARD AND MOUSE"
+					},
+					"Translation":
+					{
+						"Text": "TASTATUR UND MAUS"
+					},
+					"Key": "Topic_Keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Already Used"
+					},
+					"Translation":
+					{
+						"Text": "Schlüssel bereits verwendet"
+					},
+					"Key": "T_KeyUsed"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "MAUS-EMPFINDLICHKEIT"
+					},
+					"Key": "MouseSensivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE SMOOTHING"
+					},
+					"Translation":
+					{
+						"Text": "MAUS-GLÄTTUNG"
+					},
+					"Key": "MouseSmoothing"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE X SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "MAUS-X-EMPFINDLICHKEIT"
+					},
+					"Key": "MouseXSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE Y SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "MAUS-Y-EMPFINDLICHKEIT"
+					},
+					"Key": "MouseYSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 1"
+					},
+					"Translation":
+					{
+						"Text": "OPTION 1"
+					},
+					"Key": "ControllerDisplay_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 2"
+					},
+					"Translation":
+					{
+						"Text": "OPTION 2"
+					},
+					"Key": "ControllerDisplay_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 3"
+					},
+					"Translation":
+					{
+						"Text": "OPTION 3"
+					},
+					"Key": "ControllerDisplay_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "PRESS A KEY"
+					},
+					"Translation":
+					{
+						"Text": "DRÜCKE EINE TASTE"
+					},
+					"Key": "Text_PressAKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "The controller used when displaying icons and prompts."
+					},
+					"Translation":
+					{
+						"Text": "Der Controller, der beim Anzeigen von Symbolen und Eingabeaufforderungen verwendet wird."
+					},
+					"Key": "D_ControllerDisplay"
+				},
+				{
+					"Source":
+					{
+						"Text": "This key is already in use, do you want to overwrite the input?"
+					},
+					"Translation":
+					{
+						"Text": "Dieser Schlüssel wird bereits verwendet, möchten Sie die Eingabe überschreiben?"
+					},
+					"Key": "Q_KeyUsed"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "VIBRATION"
+					},
+					"Key": "Vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIEW CONTROLS"
+					},
+					"Translation":
+					{
+						"Text": "BEDIENELEMENTE ANZEIGEN"
+					},
+					"Key": "ViewControls"
+				},
+				{
+					"Source":
+					{
+						"Text": "View the current controller input settings."
+					},
+					"Translation":
+					{
+						"Text": "Zeigen Sie die aktuellen Controller-Eingangseinstellungen an."
+					},
+					"Key": "D_ViewControlls"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Descriptions",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Customize the variables of the selected difficulty (win achievements will not count)"
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Variablen des ausgewählten Schwierigkeitsgrads an (Gewinnleistungen zählen nicht)"
+					},
+					"Key": "CD_D_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enables or disables enemy spawning on the map (with the exception of the main boss)"
+					},
+					"Translation":
+					{
+						"Text": "Aktiviert oder deaktiviert das Spawnen von Feinden auf der Karte (mit Ausnahme des Hauptboss)"
+					},
+					"Key": "CD_D_DisabeSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases or decreases the chances you have of escaping without losing the game"
+					},
+					"Translation":
+					{
+						"Text": "Erhöht oder verringert die Chancen, zu entkommen, ohne das Spiel zu verlieren"
+					},
+					"Key": "CD_D_Chances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies boss speed"
+					},
+					"Translation":
+					{
+						"Text": "Vervielfacht die Bossgeschwindigkeit"
+					},
+					"Key": "CD_D_Boss_Speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies player speed"
+					},
+					"Translation":
+					{
+						"Text": "Multipliziert die Spielergeschwindigkeit"
+					},
+					"Key": "CD_D_PlayerSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the amount of ammo you get from ammo boxes"
+					},
+					"Translation":
+					{
+						"Text": "Multipliziert die Munitionsmenge, die Sie aus Munitionskisten erhalten"
+					},
+					"Key": "CD_D_AmmoMultiplier"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the damage dealt to the boss"
+					},
+					"Translation":
+					{
+						"Text": "Multipliziert den dem Boss zugefügten Schaden"
+					},
+					"Key": "CD_D_Damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the time it takes for enemies to spawn"
+					},
+					"Translation":
+					{
+						"Text": "Vervielfacht die Zeit, die es braucht, bis Feinde erscheinen"
+					},
+					"Key": "CD_D_EnemiesTime"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the time it takes to spawn an ammo box"
+					},
+					"Translation":
+					{
+						"Text": "Vervielfacht die Zeit, die benötigt wird, um eine Munitionskiste zu spawnen"
+					},
+					"Key": "CD_D_AmmoSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Set if Mary can be invulnerable at times after completing an objective"
+					},
+					"Translation":
+					{
+						"Text": "Legen Sie fest, ob Mary nach Abschluss eines Ziels manchmal unverwundbar sein kann"
+					},
+					"Key": "CD_D_MaryInvunerable"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Discord",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alive"
+					},
+					"Translation":
+					{
+						"Text": "Lebendig"
+					},
+					"Key": "Alive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arrested"
+					},
+					"Translation":
+					{
+						"Text": "Verhaftet"
+					},
+					"Key": "Arrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "Hauptmenü"
+					},
+					"Key": "State_MainMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meats"
+					},
+					"Translation":
+					{
+						"Text": "Fleisch"
+					},
+					"Key": "Meats"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplayer Game"
+					},
+					"Translation":
+					{
+						"Text": "Multiplayer-Spiel"
+					},
+					"Key": "State_Multi"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Lobby"
+					},
+					"Translation":
+					{
+						"Text": "In der Lobby"
+					},
+					"Key": "State_Lobby"
+				},
+				{
+					"Source":
+					{
+						"Text": "Players"
+					},
+					"Translation":
+					{
+						"Text": "Spieler"
+					},
+					"Key": "Details_Players"
+				},
+				{
+					"Source":
+					{
+						"Text": "Singleplayer Game"
+					},
+					"Translation":
+					{
+						"Text": "Einzelspieler-Spiel"
+					},
+					"Key": "State_Single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soul Stones"
+					},
+					"Translation":
+					{
+						"Text": "Seelensteine"
+					},
+					"Key": "SoulStones"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Display",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "BORDERLESS"
+					},
+					"Translation":
+					{
+						"Text": "GRENZENLOS"
+					},
+					"Key": "WindowMode_WindowedFullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Big"
+					},
+					"Translation":
+					{
+						"Text": "Groß"
+					},
+					"Key": "SubSize3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chinese (Simplified)"
+					},
+					"Translation":
+					{
+						"Text": "Vereinfachtes Chinesisch)"
+					},
+					"Key": "L_Chinese"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chinese (Traditional)"
+					},
+					"Translation":
+					{
+						"Text": "Chinesische Tradition)"
+					},
+					"Key": "L_ChineseTrad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Czech"
+					},
+					"Translation":
+					{
+						"Text": "Tschechisch"
+					},
+					"Key": "L_Czech"
+				},
+				{
+					"Source":
+					{
+						"Text": "DISPLAY"
+					},
+					"Translation":
+					{
+						"Text": "ANZEIGE"
+					},
+					"Key": "Display"
+				},
+				{
+					"Source":
+					{
+						"Text": "DISPLAY AND GENERAL"
+					},
+					"Translation":
+					{
+						"Text": "AFFICHAGE ET GÉNÉRALITÉS"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable all shakes effects, like camera shake."
+					},
+					"Translation":
+					{
+						"Text": "Deaktivieren Sie alle Verwacklungseffekte, wie z. B. Kameraverwacklungen."
+					},
+					"Key": "D_HeadBobbing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you want to keep this resolution?"
+					},
+					"Translation":
+					{
+						"Text": "Möchten Sie diese Auflösung beibehalten?"
+					},
+					"Key": "T_KeepResolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable or disable High Dynamic Range."
+					},
+					"Translation":
+					{
+						"Text": "Aktivieren oder deaktivieren Sie High Dynamic Range."
+					},
+					"Key": "D_HDR"
+				},
+				{
+					"Source":
+					{
+						"Text": "English"
+					},
+					"Translation":
+					{
+						"Text": "Englisch"
+					},
+					"Key": "L_English"
+				},
+				{
+					"Source":
+					{
+						"Text": "FPS LIMIT"
+					},
+					"Translation":
+					{
+						"Text": "FPS-LIMIT"
+					},
+					"Key": "RefreshRate"
+				},
+				{
+					"Source":
+					{
+						"Text": "FULLSCREEN"
+					},
+					"Translation":
+					{
+						"Text": "VOLLBILDSCHIRM"
+					},
+					"Key": "WindowMode_Fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "French"
+					},
+					"Translation":
+					{
+						"Text": "Französisch"
+					},
+					"Key": "L_French"
+				},
+				{
+					"Source":
+					{
+						"Text": "GENERAL"
+					},
+					"Translation":
+					{
+						"Text": "ALLGEMEINES"
+					},
+					"Key": "General"
+				},
+				{
+					"Source":
+					{
+						"Text": "German"
+					},
+					"Translation":
+					{
+						"Text": "Deutsch"
+					},
+					"Key": "L_German"
+				},
+				{
+					"Source":
+					{
+						"Text": "HDR"
+					},
+					"Translation":
+					{
+						"Text": "HDR"
+					},
+					"Key": "HDR"
+				},
+				{
+					"Source":
+					{
+						"Text": "Head Bobbing"
+					},
+					"Translation":
+					{
+						"Text": "Kopfschütteln"
+					},
+					"Key": "HeadBobbing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Italian"
+					},
+					"Translation":
+					{
+						"Text": "Italienisch"
+					},
+					"Key": "L_Italian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Japanese"
+					},
+					"Translation":
+					{
+						"Text": "japanisch"
+					},
+					"Key": "L_Japanese"
+				},
+				{
+					"Source":
+					{
+						"Text": "Korean"
+					},
+					"Translation":
+					{
+						"Text": "Koreanisch"
+					},
+					"Key": "L_Korean"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "Sprache"
+					},
+					"Key": "T_Language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language Description"
+					},
+					"Translation":
+					{
+						"Text": "Sprachbeschreibung"
+					},
+					"Key": "D_Language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "SubSize2"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT ADAPTER"
+					},
+					"Translation":
+					{
+						"Text": "AUSGANGSADAPTER"
+					},
+					"Key": "OutputAdapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT MONITOR"
+					},
+					"Translation":
+					{
+						"Text": "AUSGANGSMONITOR"
+					},
+					"Key": "OutputMonitor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Polish"
+					},
+					"Translation":
+					{
+						"Text": "Polieren"
+					},
+					"Key": "L_Polish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portuguese (Brazil)"
+					},
+					"Translation":
+					{
+						"Text": "Portugiesisch (Brasilien)"
+					},
+					"Key": "L_Portuguese"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESOLUTION"
+					},
+					"Translation":
+					{
+						"Text": "AUFLÖSUNG"
+					},
+					"Key": "Resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Russian"
+					},
+					"Translation":
+					{
+						"Text": "Russisch"
+					},
+					"Key": "L_Russian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select between Fullscreen, Windowed and Windowed Borderless mode."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie zwischen Vollbild-, Fenster- und Fensterrandlos-Modus."
+					},
+					"Key": "D_WindowMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select desired output monitor."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie den gewünschten Ausgabemonitor."
+					},
+					"Key": "D_OutputMonitor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select desired screen resolution."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie die gewünschte Bildschirmauflösung."
+					},
+					"Key": "D_Resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the limit of in-game FPS. This can help to reduce screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie das Limit der FPS im Spiel aus. Dies kann dazu beitragen, das Tearing des Bildschirms zu reduzieren."
+					},
+					"Key": "D_FPSLimit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small"
+					},
+					"Translation":
+					{
+						"Text": "Klein"
+					},
+					"Key": "SubSize1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spanish"
+					},
+					"Translation":
+					{
+						"Text": "Spanisch"
+					},
+					"Key": "L_Spanish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle"
+					},
+					"Translation":
+					{
+						"Text": "Untertitel"
+					},
+					"Key": "T_Subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Color"
+					},
+					"Translation":
+					{
+						"Text": "Untertitelfarbe"
+					},
+					"Key": "T_SubtitleColor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Color Desc"
+					},
+					"Translation":
+					{
+						"Text": "Untertitelfarbe Beschreibung"
+					},
+					"Key": "D_SubtitleColor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Description"
+					},
+					"Translation":
+					{
+						"Text": "Untertitel Beschreibung"
+					},
+					"Key": "D_Subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Size"
+					},
+					"Translation":
+					{
+						"Text": "Untertitelgröße"
+					},
+					"Key": "T_SubtitleSize"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Size Desc"
+					},
+					"Translation":
+					{
+						"Text": "Untertitelgröße Beschreibung"
+					},
+					"Key": "D_SubtitleSize"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronizes rendering frame rate with monitor refresh rate. This can help to reduce screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "Synchronisiert die Rendering-Framerate mit der Monitor-Aktualisierungsrate. Dies kann dazu beitragen, das Tearing des Bildschirms zu reduzieren."
+					},
+					"Key": "D_Vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "TRIPLE BUFFERING"
+					},
+					"Translation":
+					{
+						"Text": "DREIFACHE PUFFERUNG"
+					},
+					"Key": "TripleBuffering"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thai"
+					},
+					"Translation":
+					{
+						"Text": "Thai"
+					},
+					"Key": "L_Thai"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turkish"
+					},
+					"Translation":
+					{
+						"Text": "Türkisch"
+					},
+					"Key": "L_Turkish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": "Unbegrenzt"
+					},
+					"Key": "RefreshRate_Unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "VSYNC"
+					},
+					"Translation":
+					{
+						"Text": "VSYNC"
+					},
+					"Key": "VSync"
+				},
+				{
+					"Source":
+					{
+						"Text": "WINDOW MODE"
+					},
+					"Translation":
+					{
+						"Text": "FENSTERMODUS"
+					},
+					"Key": "WindowMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "WINDOWED"
+					},
+					"Translation":
+					{
+						"Text": "FENSTER"
+					},
+					"Key": "WindowMode_Windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "White"
+					},
+					"Translation":
+					{
+						"Text": "Weiß"
+					},
+					"Key": "SubColor1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yellow"
+					},
+					"Translation":
+					{
+						"Text": "Gelb"
+					},
+					"Key": "SubColor2"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_GameMessages",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Allies Rescued:"
+					},
+					"Translation":
+					{
+						"Text": "Verbündete gerettet:"
+					},
+					"Key": "Allies"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brogloton can hear your footsteps and see your flashlight. Be careful!"
+					},
+					"Translation":
+					{
+						"Text": "Brogloton kann deine Schritte hören und deine Taschenlampe sehen. Vorsichtig sein!"
+					},
+					"Key": "BroglotonBehavior"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed Objectives:"
+					},
+					"Translation":
+					{
+						"Text": "Abgeschlossene Ziele:"
+					},
+					"Key": "MotelObjectives"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "Ausgang"
+					},
+					"Key": "Unhide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Time:"
+					},
+					"Translation":
+					{
+						"Text": "Spielzeit:"
+					},
+					"Key": "GameTime"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hide"
+					},
+					"Translation":
+					{
+						"Text": "Verstecken"
+					},
+					"Key": "Hide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lackeys Eliminated:"
+					},
+					"Translation":
+					{
+						"Text": "Ausgeschiedene Lakaien:"
+					},
+					"Key": "Lackeys"
+				},
+				{
+					"Source":
+					{
+						"Text": "Players in Room"
+					},
+					"Translation":
+					{
+						"Text": "Spieler im Raum"
+					},
+					"Key": "PlayersInRoom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raptors Eliminated:"
+					},
+					"Translation":
+					{
+						"Text": "Beseitigte Raptoren:"
+					},
+					"Key": "Raptors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soul Stones Destroyed:"
+					},
+					"Translation":
+					{
+						"Text": "Seelensteine zerstört:"
+					},
+					"Key": "SSDestroyed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Times Caught:"
+					},
+					"Translation":
+					{
+						"Text": "Gefangene Zeiten:"
+					},
+					"Key": "TimesCaught"
+				},
+				{
+					"Source":
+					{
+						"Text": "Times Jailed:"
+					},
+					"Translation":
+					{
+						"Text": "Inhaftierte Zeiten:"
+					},
+					"Key": "TimesJailed"
+				},
+				{
+					"Source":
+					{
+						"Text": "To activate night vision press "
+					},
+					"Translation":
+					{
+						"Text": "Um die Nachtsichtfunktion zu aktivieren, drücken Sie"
+					},
+					"Key": "NightVIsionMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "To change your ammo press "
+					},
+					"Translation":
+					{
+						"Text": "Um deine Munition zu wechseln, drücke"
+					},
+					"Key": "SpecialAmmoMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can still escape death"
+					},
+					"Translation":
+					{
+						"Text": "Du kannst dem Tod immer noch entkommen"
+					},
+					"Key": "EscapeMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "You got"
+					},
+					"Translation":
+					{
+						"Text": "Du hast"
+					},
+					"Key": "KeyGet"
+				},
+				{
+					"Source":
+					{
+						"Text": "You need"
+					},
+					"Translation":
+					{
+						"Text": "Du brauchst"
+					},
+					"Key": "KeyNeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "You will die when you get caught"
+					},
+					"Translation":
+					{
+						"Text": "Du wirst sterben, wenn du erwischt wirst"
+					},
+					"Key": "YouWIllDie"
+				},
+				{
+					"Source":
+					{
+						"Text": "times"
+					},
+					"Translation":
+					{
+						"Text": "mal"
+					},
+					"Key": "Times"
+				},
+				{
+					"Source":
+					{
+						"Text": "to break free"
+					},
+					"Translation":
+					{
+						"Text": "sich befreien"
+					},
+					"Key": "ToBreakFree"
+				},
+				{
+					"Source":
+					{
+						"Text": "to hold your breath"
+					},
+					"Translation":
+					{
+						"Text": "den Atem anhalten"
+					},
+					"Key": "HoldBreath"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Inputs",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Camera"
+					},
+					"Translation":
+					{
+						"Text": "Kamera"
+					},
+					"Key": "Gamepad(R)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch"
+					},
+					"Translation":
+					{
+						"Text": "Hocken"
+					},
+					"Key": "Crouch_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch Desc"
+					},
+					"Translation":
+					{
+						"Text": "Crouch Desc"
+					},
+					"Key": "Crouch_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch/Swim Down"
+					},
+					"Translation":
+					{
+						"Text": "Hocken/herunterschwimmen"
+					},
+					"Key": "Gamepad(B)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip/Unequip Gun"
+					},
+					"Translation":
+					{
+						"Text": "Waffe ausrüsten/ablegen"
+					},
+					"Key": "EquipGun_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "EquipGun Desc"
+					},
+					"Translation":
+					{
+						"Text": "EquipGun Beschreibung"
+					},
+					"Key": "EquipGun_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flashlight"
+					},
+					"Translation":
+					{
+						"Text": "Taschenlampe"
+					},
+					"Key": "Flashight_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flashlight Desc"
+					},
+					"Translation":
+					{
+						"Text": "Taschenlampe Beschreibung"
+					},
+					"Key": "Flashlight_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": "Interagieren"
+					},
+					"Key": "Interact_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Desc"
+					},
+					"Translation":
+					{
+						"Text": "Interagieren"
+					},
+					"Key": "Interact_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact/Swim Up"
+					},
+					"Translation":
+					{
+						"Text": "Interagieren/Schwimmen"
+					},
+					"Key": "Gamepad(A)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "Inventar"
+					},
+					"Key": "Inventory_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory Desc"
+					},
+					"Translation":
+					{
+						"Text": "Inventarbeschreibung"
+					},
+					"Key": "Inventory_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE BACKWARD"
+					},
+					"Translation":
+					{
+						"Text": "RÜCKWÄRTS BEWEGEN"
+					},
+					"Key": "MoveBackward_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE BACKWARD DESC"
+					},
+					"Translation":
+					{
+						"Text": "RÜCKWÄRTS BEWEGEN DESC"
+					},
+					"Key": "MoveBackward_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE FORWARD"
+					},
+					"Translation":
+					{
+						"Text": "BEWEGEN SIE VORWÄRTS"
+					},
+					"Key": "MoveForward_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE FORWARD DESC"
+					},
+					"Translation":
+					{
+						"Text": "VORWÄRTS BESCHREIBEN"
+					},
+					"Key": "MoveForward_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": "Geh nach links"
+					},
+					"Key": "MoveLeft_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": "Nach rechts bewegen"
+					},
+					"Key": "MoveRight_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MoveLeft Desc"
+					},
+					"Translation":
+					{
+						"Text": "MoveLeft Desc"
+					},
+					"Key": "MoveLeft_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MoveRight Desc"
+					},
+					"Translation":
+					{
+						"Text": "MoveRight Beschreibung"
+					},
+					"Key": "MoveRight_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Night Vision"
+					},
+					"Translation":
+					{
+						"Text": "Nachtsicht"
+					},
+					"Key": "NightVision"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chat"
+					},
+					"Translation":
+					{
+						"Text": "Chat öffnen"
+					},
+					"Key": "OpenChat_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chat Desc"
+					},
+					"Translation":
+					{
+						"Text": "Chat-Beschreibung öffnen"
+					},
+					"Key": "OpenChat_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause"
+					},
+					"Translation":
+					{
+						"Text": "Pause"
+					},
+					"Key": "Pause_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause Desc"
+					},
+					"Translation":
+					{
+						"Text": "Pause Beschreibung"
+					},
+					"Key": "Pause_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push To Talk"
+					},
+					"Translation":
+					{
+						"Text": "Drücken, um zu sprechen"
+					},
+					"Key": "PushToTalk_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PushToTalk Desc"
+					},
+					"Translation":
+					{
+						"Text": "PushToTalk-Beschreibung"
+					},
+					"Key": "PushToTalk_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reload"
+					},
+					"Translation":
+					{
+						"Text": "Neu laden"
+					},
+					"Key": "Reload_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reload Desc"
+					},
+					"Translation":
+					{
+						"Text": "Beschreibung neu laden"
+					},
+					"Key": "Reload_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Run"
+					},
+					"Translation":
+					{
+						"Text": "Lauf"
+					},
+					"Key": "Run_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Run Desc"
+					},
+					"Translation":
+					{
+						"Text": "Beschreibung ausführen"
+					},
+					"Key": "Run_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shoot"
+					},
+					"Translation":
+					{
+						"Text": "Schießen"
+					},
+					"Key": "Shoot_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shoot Desc"
+					},
+					"Translation":
+					{
+						"Text": "Schießen Sie Desc"
+					},
+					"Key": "Shoot_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show Chat"
+					},
+					"Translation":
+					{
+						"Text": "Chat anzeigen"
+					},
+					"Key": "ShowChat_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "ShowChat Desc"
+					},
+					"Translation":
+					{
+						"Text": "ShowChat-Beschreibung"
+					},
+					"Key": "ShowChat_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swim Down"
+					},
+					"Translation":
+					{
+						"Text": "Schwimmen Sie nach unten"
+					},
+					"Key": "SwimDown_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swim Up"
+					},
+					"Translation":
+					{
+						"Text": "Schwimme nach oben"
+					},
+					"Key": "SwimUp_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "SwimDown Desc"
+					},
+					"Translation":
+					{
+						"Text": "SwimDown-Beschreibung"
+					},
+					"Key": "SwimDown_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "SwimUp Desc"
+					},
+					"Translation":
+					{
+						"Text": "SwimUp-Beschreibung"
+					},
+					"Key": "SwimUp_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Ammo"
+					},
+					"Translation":
+					{
+						"Text": "Munition umschalten"
+					},
+					"Key": "SpecialAmmo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walk"
+					},
+					"Translation":
+					{
+						"Text": "Spaziergang"
+					},
+					"Key": "Gamepad(L)"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Inventory",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A-Block"
+					},
+					"Translation":
+					{
+						"Text": "A-Block"
+					},
+					"Key": "T_Password_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "ADM"
+					},
+					"Translation":
+					{
+						"Text": "ADM"
+					},
+					"Key": "T_Password_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bathroom OBS"
+					},
+					"Translation":
+					{
+						"Text": "Badezimmer OBS"
+					},
+					"Key": "Key_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "CCU"
+					},
+					"Translation":
+					{
+						"Text": "CPU"
+					},
+					"Key": "T_Password_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Central Control"
+					},
+					"Translation":
+					{
+						"Text": "Zentrale Steuerung"
+					},
+					"Key": "Key_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chief Security"
+					},
+					"Translation":
+					{
+						"Text": "Sicherheitschef"
+					},
+					"Key": "Key_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collected Keys"
+					},
+					"Translation":
+					{
+						"Text": "Gesammelte Schlüssel"
+					},
+					"Key": "T_CollectedKeys"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daisy Ri... --- Paradise Motel --- 90302 Dopezo Str..."
+					},
+					"Translation":
+					{
+						"Text": "Daisy Ri... --- Paradise Motel --- 90302 Dopezo Str..."
+					},
+					"Key": "R_Note_Motel_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Director's Letter"
+					},
+					"Translation":
+					{
+						"Text": "Brief des Direktors"
+					},
+					"Key": "T_Note_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Director's Redemption"
+					},
+					"Translation":
+					{
+						"Text": "Rücknahme des Direktors"
+					},
+					"Key": "T_Note_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Driver license"
+					},
+					"Translation":
+					{
+						"Text": "Führerschein"
+					},
+					"Key": "T_Note_Motel_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Driver license"
+					},
+					"Translation":
+					{
+						"Text": "Führerschein"
+					},
+					"Key": "R_Note_Motel_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each spirit has one or more Focus Points with which clairvoyants can interact. A Point of Focus is a three-dimensional structure that has an energetic connection to spirit, and that can be shaped to be used in a way that suits the clairvoyant. Focus Points can be used to communicate, weaken or even banish spirits."
+					},
+					"Translation":
+					{
+						"Text": "Jeder Geist hat einen oder mehrere Fokuspunkte, mit denen Hellseher interagieren können. Ein Point of Focus ist eine dreidimensionale Struktur, die eine energetische Verbindung zum Geist hat und die so geformt werden kann, dass sie dem Hellseher entspricht. Fokuspunkte können verwendet werden, um Geister zu kommunizieren, zu schwächen oder sogar zu verbannen."
+					},
+					"Key": "R_Note_Motel_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Energy Station"
+					},
+					"Translation":
+					{
+						"Text": "Energiestation"
+					},
+					"Key": "Key_Energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Focus point"
+					},
+					"Translation":
+					{
+						"Text": "Fokuspunkt"
+					},
+					"Key": "T_Note_Motel_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sees you"
+					},
+					"Translation":
+					{
+						"Text": "Er sieht dich"
+					},
+					"Key": "T_Note_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sees you\r\nHe hears you\r\nHe wants you"
+					},
+					"Translation":
+					{
+						"Text": "Er sieht dich\r\nEr hört dich\r\nEr will dich"
+					},
+					"Key": "R_Note_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hospital Report"
+					},
+					"Translation":
+					{
+						"Text": "Krankenhausbericht"
+					},
+					"Key": "T_Note_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I owe him everything he set me free. We were being chased by the darkness, but we will finally be guided into the light.\r\n\r\nDIE"
+					},
+					"Translation":
+					{
+						"Text": "Ich schulde ihm alles, was er mich befreit hat. Wir wurden von der Dunkelheit verfolgt, aber wir werden endlich ins Licht geführt.\r\n\r\nSTERBEN"
+					},
+					"Key": "R_Note_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infirmary"
+					},
+					"Translation":
+					{
+						"Text": "Krankenstation"
+					},
+					"Key": "Key_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It all started after the arrival of a prisoner, since then things have gone out of normal. Most prisoners tried to take their own lifes. When I said it could be a supernatural influence, they called me a madman.\r\n\r\nIf you are reading this, I must be somewhere in the prison, putting some wind chimes to keep the evil spirits away from this place, just look for me."
+					},
+					"Translation":
+					{
+						"Text": "Angefangen hat alles nach der Ankunft eines Gefangenen, seitdem ist alles aus dem Ruder gelaufen. Die meisten Gefangenen versuchten, sich das Leben zu nehmen. Als ich sagte, es könnte ein übernatürlicher Einfluss sein, nannten sie mich einen Verrückten.\r\n\r\nWenn Sie dies lesen, muss ich irgendwo im Gefängnis sein und ein paar Windspiele aufstellen, um die bösen Geister von diesem Ort fernzuhalten, suchen Sie mich einfach."
+					},
+					"Key": "R_Note_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": "Schlüssel"
+					},
+					"Key": "Key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Map"
+					},
+					"Translation":
+					{
+						"Text": "Karte"
+					},
+					"Key": "Button_Map"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notes"
+					},
+					"Translation":
+					{
+						"Text": "Anmerkungen"
+					},
+					"Key": "Button_Notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now simply wait for the spirit to fulfill its mission. Success is a frequent practice in this system, but in case of failure we have an alternative, giving an ultimatum to the spirit. For this, order him to complete his mission in a certain number of hours under penalty of banning him permanently. Most of the time this will be enough to make him do his duty. However, be careful not to leave any loopholes in your orders, the spirits will not let the opportunity to deceive you pass. A spirit that manages to deceive its summoner is free to do as it pleases."
+					},
+					"Translation":
+					{
+						"Text": "Jetzt warte einfach darauf, dass der Geist seine Mission erfüllt. Erfolg ist eine häufige Praxis in diesem System, aber im Falle eines Misserfolgs haben wir eine Alternative, die dem Geist ein Ultimatum stellt. Befehlen Sie ihm dazu, seine Mission in einer bestimmten Anzahl von Stunden zu erfüllen, unter Androhung einer dauerhaften Sperre. Meistens wird dies ausreichen, um ihn dazu zu bringen, seine Pflicht zu erfüllen. Achten Sie jedoch darauf, keine Lücken in Ihren Bestellungen zu hinterlassen, die Geister lassen sich die Gelegenheit nicht entgehen, Sie zu täuschen. Ein Geist, der es schafft, seinen Beschwörer zu täuschen, kann tun und lassen, was er will."
+					},
+					"Key": "R_Note_Motel_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Passwords and Keys"
+					},
+					"Translation":
+					{
+						"Text": "Passwörter und Schlüssel"
+					},
+					"Key": "Button_Passwords"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "Lesen"
+					},
+					"Key": "Button_Read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Records"
+					},
+					"Translation":
+					{
+						"Text": "Aufzeichnungen"
+					},
+					"Key": "Key_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ripped note"
+					},
+					"Translation":
+					{
+						"Text": "Zerrissene Notiz"
+					},
+					"Key": "T_Note_Motel_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summoners's caution"
+					},
+					"Translation":
+					{
+						"Text": "Vorsicht der Beschwörer"
+					},
+					"Key": "T_Note_Motel_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summoning of a spirit"
+					},
+					"Translation":
+					{
+						"Text": "Beschwörung eines Geistes"
+					},
+					"Key": "T_Note_Motel_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The commands for the conjured spirit must necessarily be expressed in the adept's own words. Orders to the spirit must be clear, and perhaps some restrictions must be imposed, such as not hurting friends and family, and perhaps a deadline for your requests to be carried out. There are basically three ways to bargain with a spirit. Asking, threatening or rewarding him. Most of the time the spirit can accept or deny your request and demand nothing in return. Some of them, however, seem to have a tendency towards negotiation and some towards cheating."
+					},
+					"Translation":
+					{
+						"Text": "Die Befehle für den beschworenen Geist müssen notwendigerweise in den eigenen Worten des Adepten ausgedrückt werden. Befehle an den Geist müssen klar sein, und vielleicht müssen einige Einschränkungen auferlegt werden, wie zum Beispiel, Freunde und Familie nicht zu verletzen, und vielleicht eine Frist für die Ausführung Ihrer Bitten. Es gibt grundsätzlich drei Möglichkeiten, mit einem Geist zu verhandeln. Ihn fragen, drohen oder belohnen. Meistens kann der Geist deine Bitte annehmen oder ablehnen und keine Gegenleistung verlangen. Einige von ihnen scheinen jedoch zu Verhandlungen und andere zum Betrug zu neigen."
+					},
+					"Key": "R_Note_Motel_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The victims reported hearing voices in their heads and talked about seeing a figure similar to a bipedal goat. After a while, some patients reported that the voices were gone. All patients who were in the prison infirmary were transferred."
+					},
+					"Translation":
+					{
+						"Text": "Die Opfer berichteten, Stimmen in ihren Köpfen gehört zu haben und sprachen darüber, eine Figur gesehen zu haben, die einer zweibeinigen Ziege ähnelte. Nach einer Weile berichteten einige Patienten, dass die Stimmen weg waren. Alle Patienten, die sich im Gefängniskrankenhaus befanden, wurden verlegt."
+					},
+					"Key": "R_Note_3"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Menu",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "APPLY"
+					},
+					"Translation":
+					{
+						"Text": "ANWENDEN"
+					},
+					"Key": "Button_Apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "BACK"
+					},
+					"Translation":
+					{
+						"Text": "ZURÜCK"
+					},
+					"Key": "Button_Back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back to Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "Zurück zum Hauptmenü"
+					},
+					"Key": "T_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back to Menu"
+					},
+					"Translation":
+					{
+						"Text": "Zurück zum Menü"
+					},
+					"Key": "Button_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": "Weitermachen"
+					},
+					"Key": "B_Continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defeat"
+					},
+					"Translation":
+					{
+						"Text": "Verlust"
+					},
+					"Key": "T_Defeat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really want to go back to the menu?"
+					},
+					"Translation":
+					{
+						"Text": "Möchten Sie wirklich zum Menü zurückkehren?"
+					},
+					"Key": "Q_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really want to quit the game?"
+					},
+					"Translation":
+					{
+						"Text": "Willst du das Spiel wirklich beenden?"
+					},
+					"Key": "Q_Quit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed to Join"
+					},
+					"Translation":
+					{
+						"Text": "Beitreten fehlgeschlagen"
+					},
+					"Key": "Error_FailJoin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed to create"
+					},
+					"Translation":
+					{
+						"Text": "Konnte nicht erstellt werden"
+					},
+					"Key": "Error_FailedCreate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold"
+					},
+					"Translation":
+					{
+						"Text": "Halt"
+					},
+					"Key": "HoldKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick"
+					},
+					"Translation":
+					{
+						"Text": "Trete"
+					},
+					"Key": "B_Kick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Level"
+					},
+					"Translation":
+					{
+						"Text": "Eben"
+					},
+					"Key": "T_Level"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "Hauptmenü"
+					},
+					"Key": "T_MainMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplayer"
+					},
+					"Translation":
+					{
+						"Text": "Mehrspieler"
+					},
+					"Key": "Multiplayer"
+				},
+				{
+					"Source":
+					{
+						"Text": "NO"
+					},
+					"Translation":
+					{
+						"Text": "NEIN"
+					},
+					"Key": "Option_No"
+				},
+				{
+					"Source":
+					{
+						"Text": "NONE"
+					},
+					"Translation":
+					{
+						"Text": "KEINER"
+					},
+					"Key": "Option_None"
+				},
+				{
+					"Source":
+					{
+						"Text": "OFF"
+					},
+					"Translation":
+					{
+						"Text": "AUS"
+					},
+					"Key": "Option_Off"
+				},
+				{
+					"Source":
+					{
+						"Text": "ON"
+					},
+					"Translation":
+					{
+						"Text": "AN"
+					},
+					"Key": "Option_On"
+				},
+				{
+					"Source":
+					{
+						"Text": "Options"
+					},
+					"Translation":
+					{
+						"Text": "Optionen"
+					},
+					"Key": "Options"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit"
+					},
+					"Translation":
+					{
+						"Text": "Aufhören"
+					},
+					"Key": "Quit"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESTORE TO DEFAULT"
+					},
+					"Translation":
+					{
+						"Text": "ZURÜCK ZU WERKEINSTELLUNGEN"
+					},
+					"Key": "Button_Reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ready"
+					},
+					"Translation":
+					{
+						"Text": "Bereit"
+					},
+					"Key": "Button_Ready"
+				},
+				{
+					"Source":
+					{
+						"Text": "Return"
+					},
+					"Translation":
+					{
+						"Text": "Zurückkehren"
+					},
+					"Key": "Button_Return"
+				},
+				{
+					"Source":
+					{
+						"Text": "SAVE"
+					},
+					"Translation":
+					{
+						"Text": "SPEICHERN"
+					},
+					"Key": "Button_Save"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show Tips"
+					},
+					"Translation":
+					{
+						"Text": "Tipps anzeigen"
+					},
+					"Key": "B_Tips"
+				},
+				{
+					"Source":
+					{
+						"Text": "Singleplayer"
+					},
+					"Translation":
+					{
+						"Text": "Einzelspieler"
+					},
+					"Key": "Singleplayer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": "Starten"
+					},
+					"Key": "Button_Start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Victory"
+					},
+					"Translation":
+					{
+						"Text": "Sieg"
+					},
+					"Key": "T_Victory"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": "XP"
+					},
+					"Key": "T_XP"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP needed to next level"
+					},
+					"Translation":
+					{
+						"Text": "XP benötigt für das nächste Level"
+					},
+					"Key": "T_XpNeeded"
+				},
+				{
+					"Source":
+					{
+						"Text": "YES"
+					},
+					"Translation":
+					{
+						"Text": "JAWOHL"
+					},
+					"Key": "Option_Yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You gained"
+					},
+					"Translation":
+					{
+						"Text": "Du hast gewonnen"
+					},
+					"Key": "T_YouGained"
+				},
+				{
+					"Source":
+					{
+						"Text": "to skip"
+					},
+					"Translation":
+					{
+						"Text": "zu überspringen"
+					},
+					"Key": "ToSkip"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Menus",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ADVANCED GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "ERWEITERTE GRAFIK"
+					},
+					"Key": "Graphis_Topic_Advanced"
+				},
+				{
+					"Source":
+					{
+						"Text": "AMBIENT OCCLUSION"
+					},
+					"Translation":
+					{
+						"Text": "UMGEBUNGSOKKLUSION"
+					},
+					"Key": "Graphics_AO"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANISOTROPIC FILTERING"
+					},
+					"Translation":
+					{
+						"Text": "ANISOTROPE FILTERUNG"
+					},
+					"Key": "Graphics_Anisotropic"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANTI ALIASING METHOD"
+					},
+					"Translation":
+					{
+						"Text": "ANTI-ALIASING-METHODE"
+					},
+					"Key": "Graphics_AAMethod"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANTI ALIASING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "ANTI-ALIASING-QUALITÄT"
+					},
+					"Key": "Graphics_AAQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "APPLY CHANGES?"
+					},
+					"Translation":
+					{
+						"Text": "ÄNDERUNGEN ÜBERNEHMEN?"
+					},
+					"Key": "Decision_Text"
+				},
+				{
+					"Source":
+					{
+						"Text": "AUTO"
+					},
+					"Translation":
+					{
+						"Text": "Automatische"
+					},
+					"Key": "Settings_Auto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust quality of global illumination such as indirect light from the sky."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Qualität der globalen Beleuchtung an, z. B. indirektes Licht vom Himmel."
+					},
+					"Key": "D_GlobalIllumination"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust resolution and shading quality of fog, clouds and other volumetrics effects."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Auflösung und die Schattierungsqualität von Nebel, Wolken und anderen volumetrischen Effekten an."
+					},
+					"Key": "D_Volumetrics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust resolution of reflections on rough and glossy surfaces."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Auflösung von Reflexionen auf rauen und glänzenden Oberflächen an."
+					},
+					"Key": "D_Reflection"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust texture quality. This change the level of detail observable on objects, buildings and the environment."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Texturqualität an. Dadurch ändert sich der Detailgrad, der bei Objekten, Gebäuden und der Umgebung beobachtbar ist."
+					},
+					"Key": "D_TextureQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the Anti-Aliasing quality."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Anti-Aliasing-Qualität an."
+					},
+					"Key": "D_AAQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the draw distance of grass. Higher settings enable grass shadows."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie den Zugabstand des Grases an. Höhere Einstellungen ermöglichen Grasschatten."
+					},
+					"Key": "D_Vegetation"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the level of detail of shadows in the distance."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie den Detailgrad der Schatten in der Ferne an."
+					},
+					"Key": "D_FarShadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the light quality of the sun, moon and local lights."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Lichtqualität von Sonne, Mond und lokalen Lichtern an."
+					},
+					"Key": "D_LightingQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality and the amount of features in the Post Processing."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Qualität und die Anzahl der Funktionen in der Nachbearbeitung an."
+					},
+					"Key": "D_PPQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality of ambient shadows where two surfaces meet."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Qualität der Umgebungsschatten an den Stellen an, an denen sich zwei Oberflächen treffen."
+					},
+					"Key": "D_SSAO"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality of water refraction, reflection and physics.\r\n\r\nExperienced users can further customize water quality settings in the Advanced section."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Qualität der Wasserbrechung, Reflexion und Physik an.\r\n\r\nErfahrene Benutzer können die Wasserqualitätseinstellungen im Abschnitt Erweitert weiter anpassen."
+					},
+					"Key": "D_WaterQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quantity and quality of particle effects."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Quantität und Qualität der Partikeleffekte an."
+					},
+					"Key": "D_Effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the shadow quality of the sun, moon and local lights."
+					},
+					"Translation":
+					{
+						"Text": "Passen Sie die Schattenqualität von Sonne, Mond und lokalen Lichtern an."
+					},
+					"Key": "D_ShadowQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts internal resolution by forcing the game to render at a certain level and then scale to your Resolution setting. This can improve image quality.\r\n\r\nIncreasing this will not increase the resolution the game is displayed at."
+					},
+					"Translation":
+					{
+						"Text": "Passt die interne Auflösung an, indem das Spiel gezwungen wird, auf einer bestimmten Stufe zu rendern und dann auf Ihre Auflösungseinstellung zu skalieren. Dies kann die Bildqualität verbessern.\r\n\r\nWenn Sie diesen Wert erhöhen, wird die Auflösung des Spiels nicht erhöht."
+					},
+					"Key": "D_ResolutionScale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the Anti-Aliasing method:\r\n\r\nTemporal Anti-Aliasing (TAA) improves image quality by reusing previous frames. This helps to reduce object edges appearing jagged or unexpectedly sharp;\r\n\r\nFast Approximate Anti-Aliasing (FXAA) reduce object edges appearing jagged or unexpectedly sharp."
+					},
+					"Translation":
+					{
+						"Text": "Passt die Anti-Aliasing-Methode an:\r\n\r\nTemporales Anti-Aliasing (TAA) verbessert die Bildqualität durch Wiederverwendung vorheriger Frames. Dies trägt dazu bei, Objektkanten zu reduzieren, die gezackt oder unerwartet scharf erscheinen;\r\n\r\nFast Approximate Anti-Aliasing (FXAA) reduziert gezackte oder unerwartet scharfe Objektkanten."
+					},
+					"Key": "D_AAMethod"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the amount of objects displayed on the screen according to the distance from the main camera."
+					},
+					"Translation":
+					{
+						"Text": "Passt die Anzahl der auf dem Bildschirm angezeigten Objekte entsprechend der Entfernung von der Hauptkamera an."
+					},
+					"Key": "D_ViewDistance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the draw distance of detailed objects such as lamps, weapons and decorations."
+					},
+					"Translation":
+					{
+						"Text": "Passt den Zeichenabstand von detaillierten Objekten wie Lampen, Waffen und Dekorationen an."
+					},
+					"Key": "D_GeometryQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alters the appearance of objects on the surface of Materials."
+					},
+					"Translation":
+					{
+						"Text": "Ändert das Erscheinungsbild von Objekten auf der Oberfläche von Materialien."
+					},
+					"Key": "D_SSR"
+				},
+				{
+					"Source":
+					{
+						"Text": "Applies blur on objects in motion relative to the camera."
+					},
+					"Translation":
+					{
+						"Text": "Wendet Unschärfe auf Objekte an, die sich relativ zur Kamera bewegen."
+					},
+					"Key": "D_MotionBlur"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALANCED"
+					},
+					"Translation":
+					{
+						"Text": "AUSGEWOGEN"
+					},
+					"Key": "Settings_Balanced"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALANCED"
+					},
+					"Translation":
+					{
+						"Text": "AUSGEWOGEN"
+					},
+					"Key": "Graphics_Preset_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "BASIC GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "GRUNDLEGENDE GRAFIK"
+					},
+					"Key": "Graphics_Topic_Basic"
+				},
+				{
+					"Source":
+					{
+						"Text": "BEAUTIFUL"
+					},
+					"Translation":
+					{
+						"Text": "WUNDERSCHÖNEN"
+					},
+					"Key": "Graphics_Preset_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "BLOOM"
+					},
+					"Translation":
+					{
+						"Text": "BLÜHEN"
+					},
+					"Key": "Graphics_Bloom"
+				},
+				{
+					"Source":
+					{
+						"Text": "BRIGHTNESS CALIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "HELLIGKEITSKALIBRIERUNG"
+					},
+					"Key": "Graphics_Brigthness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bloom is a real world light phenomenon that can greatly add to the perceived realism of a rendered image at a moderate render performance cost."
+					},
+					"Translation":
+					{
+						"Text": "Bloom ist ein Lichtphänomen in der realen Welt, das bei moderaten Kosten für die Renderleistung den wahrgenommenen Realismus eines gerenderten Bildes erheblich verbessern kann."
+					},
+					"Key": "D_Bloom"
+				},
+				{
+					"Source":
+					{
+						"Text": "CHROMATIC ABERRATION"
+					},
+					"Translation":
+					{
+						"Text": "CHROMATISCHE ABWEICHUNG"
+					},
+					"Key": "Graphics_Chromatic"
+				},
+				{
+					"Source":
+					{
+						"Text": "CUSTOM"
+					},
+					"Translation":
+					{
+						"Text": "BENUTZERDEFINIERT"
+					},
+					"Key": "Graphics_Preset_Custom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Calibrate your screen to adjust the Brightness that the game will display at."
+					},
+					"Translation":
+					{
+						"Text": "Kalibrieren Sie Ihren Bildschirm, um die Helligkeit anzupassen, mit der das Spiel angezeigt wird."
+					},
+					"Key": "D_Brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choose which default graphics API the game should use."
+					},
+					"Translation":
+					{
+						"Text": "Wählen Sie aus, welche Standard-Grafik-API das Spiel verwenden soll."
+					},
+					"Key": "D_API"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIRECTX12"
+					},
+					"Translation":
+					{
+						"Text": "DIRECTX12"
+					},
+					"Key": "API_DX12"
+				},
+				{
+					"Source":
+					{
+						"Text": "DLSS"
+					},
+					"Translation":
+					{
+						"Text": "DLSS"
+					},
+					"Key": "Graphics_DLSS"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable technique that simulates the scattering of light when viewing bright objects due to imperfections in camera lenses."
+					},
+					"Translation":
+					{
+						"Text": "Deaktivieren oder aktivieren Sie die Technik, die die Lichtstreuung beim Betrachten heller Objekte aufgrund von Unvollkommenheiten in den Kameraobjektiven simuliert."
+					},
+					"Key": "D_LensFlare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable the volumetric cloud on the sky."
+					},
+					"Translation":
+					{
+						"Text": "Désactivez ou activez le nuage volumétrique dans le ciel."
+					},
+					"Key": "D_VolumetricCloud"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable the volumetric fog on the environment."
+					},
+					"Translation":
+					{
+						"Text": "Désactiver ou activer le brouillard volumétrique sur l'environnement."
+					},
+					"Key": "D_VolumetricFog"
+				},
+				{
+					"Source":
+					{
+						"Text": "EFFECTS QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "EFFEKTQUALITÄT"
+					},
+					"Key": "Graphics_Effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect that approximates the attenuation of light due to occlusion. This is generally best used as a subtle effect, in addition to standard global illumination, that darkens corners, crevices, or other features to create a more natural, realistic look."
+					},
+					"Translation":
+					{
+						"Text": "Effekt, der sich der Lichtabschwächung aufgrund von Okklusion annähert. Dies wird im Allgemeinen am besten als subtiler Effekt zusätzlich zur standardmäßigen globalen Beleuchtung verwendet, der Ecken, Spalten oder andere Merkmale abdunkelt, um ein natürlicheres, realistischeres Aussehen zu erzielen."
+					},
+					"Key": "D_AmbientOcclusion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable DirectX Raytracing (DXR) for life-like Reflections."
+					},
+					"Translation":
+					{
+						"Text": "Aktivieren Sie DirectX Raytracing (DXR) für lebensechte Reflexionen."
+					},
+					"Key": "RT_D_Reflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable DirectX Raytracing (DXR) for life-like Shadows."
+					},
+					"Translation":
+					{
+						"Text": "Aktivieren Sie DirectX Raytracing (DXR) für lebensechte Schatten."
+					},
+					"Key": "RT_D_Shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "FAR SHADOW QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "WEITERE SCHATTENQUALITÄT"
+					},
+					"Key": "Graphics_FarShadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "FIELD OF VIEW"
+					},
+					"Translation":
+					{
+						"Text": "SICHTFELD"
+					},
+					"Key": "Graphics_FieldOfView"
+				},
+				{
+					"Source":
+					{
+						"Text": "FOLIAGE QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "LAUBQUALITÄT"
+					},
+					"Key": "Graphics_Foliage"
+				},
+				{
+					"Source":
+					{
+						"Text": "FXAA"
+					},
+					"Translation":
+					{
+						"Text": "FXAA"
+					},
+					"Key": "AA_FXAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "FXAA QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "FXAA-QUALITÄT"
+					},
+					"Key": "Graphics_FXAA_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "GEOMETRY QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "GEOMETRIE QUALITÄT"
+					},
+					"Key": "Graphics_Geometry"
+				},
+				{
+					"Source":
+					{
+						"Text": "GLOBAL ILLUMINATION"
+					},
+					"Translation":
+					{
+						"Text": "GLOBALE BELEUCHTUNG"
+					},
+					"Key": "Graphics_GlobalIllumination"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "GRAFIK"
+					},
+					"Key": "Decision_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "GRAFIK"
+					},
+					"Key": "Graphics_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS API"
+					},
+					"Translation":
+					{
+						"Text": "GRAFIK-API"
+					},
+					"Key": "Graphics_API"
+				},
+				{
+					"Source":
+					{
+						"Text": "Globally adjusts graphics quality presets based on your hardware capabilities."
+					},
+					"Translation":
+					{
+						"Text": "Passt die Voreinstellungen für die Grafikqualität basierend auf Ihren Hardwarefunktionen global an."
+					},
+					"Key": "D_QualityPreset"
+				},
+				{
+					"Source":
+					{
+						"Text": "HIGH"
+					},
+					"Translation":
+					{
+						"Text": "HOCH"
+					},
+					"Key": "Settings_High"
+				},
+				{
+					"Source":
+					{
+						"Text": "Higher values help maintain texture quality when being observed from a grazing angle, not face on to the camera."
+					},
+					"Translation":
+					{
+						"Text": "Höhere Werte tragen dazu bei, die Texturqualität beizubehalten, wenn sie aus einem streifenden Winkel betrachtet werden und nicht mit dem Gesicht zur Kamera."
+					},
+					"Key": "D_Anisotropic"
+				},
+				{
+					"Source":
+					{
+						"Text": "LENS FLARE"
+					},
+					"Translation":
+					{
+						"Text": "LENS FLARE"
+					},
+					"Key": "Graphics_LensFlare"
+				},
+				{
+					"Source":
+					{
+						"Text": "LIGHTING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "LICHTQUALITÄT"
+					},
+					"Key": "Graphics_Lighting"
+				},
+				{
+					"Source":
+					{
+						"Text": "LOW"
+					},
+					"Translation":
+					{
+						"Text": "NIEDRIG"
+					},
+					"Key": "Setting_Low"
+				},
+				{
+					"Source":
+					{
+						"Text": "MATERIAL QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "MATERIALQUALITÄT"
+					},
+					"Key": "Graphics_Material"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEDIUM"
+					},
+					"Translation":
+					{
+						"Text": "MITTEL"
+					},
+					"Key": "Settings_Medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOTION BLUR"
+					},
+					"Translation":
+					{
+						"Text": "BEWEGUNGSUNSCHÄRFE"
+					},
+					"Key": "Graphics_MotionBlur"
+				},
+				{
+					"Source":
+					{
+						"Text": "MSAA"
+					},
+					"Translation":
+					{
+						"Text": "MSAA"
+					},
+					"Key": "AA_MSAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "LEISTUNG"
+					},
+					"Key": "Settings_Performance"
+				},
+				{
+					"Source":
+					{
+						"Text": "PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "LEISTUNG"
+					},
+					"Key": "Graphics_Preset_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "POST PROCESSING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "NACHBEARBEITUNGSQUALITÄT"
+					},
+					"Key": "Graphics_PostProcess"
+				},
+				{
+					"Source":
+					{
+						"Text": "QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "QUALITÄT"
+					},
+					"Key": "Settings_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "QUALITY PRESET LEVEL"
+					},
+					"Translation":
+					{
+						"Text": "VOREINGESTELLTE QUALITÄTSPEGEL"
+					},
+					"Key": "Graphics_Preset"
+				},
+				{
+					"Source":
+					{
+						"Text": "RAY TRACING"
+					},
+					"Translation":
+					{
+						"Text": "RAYTRACING"
+					},
+					"Key": "RayTracing"
+				},
+				{
+					"Source":
+					{
+						"Text": "REFLECTION QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "REFLEXIONSQUALITÄT"
+					},
+					"Key": "Graphics_Reflection"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESOLUTION SCALE"
+					},
+					"Translation":
+					{
+						"Text": "AUFLÖSUNGSSKALA"
+					},
+					"Key": "Graphics_ResolutionScale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Traced Reflections"
+					},
+					"Translation":
+					{
+						"Text": "Raytrace-Reflexionen"
+					},
+					"Key": "RT_Reflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Traced Shadows"
+					},
+					"Translation":
+					{
+						"Text": "Raytrace-Schatten"
+					},
+					"Key": "RT_Shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Tracing General"
+					},
+					"Translation":
+					{
+						"Text": "Raytracing allgemein"
+					},
+					"Key": "RT_General"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reduce or amplify the quality of the objects materials such as weapons, bullets and walls."
+					},
+					"Translation":
+					{
+						"Text": "Reduzieren oder verstärken Sie die Qualität der Objektmaterialien wie Waffen, Kugeln und Wände."
+					},
+					"Key": "D_Material"
+				},
+				{
+					"Source":
+					{
+						"Text": "SCREEN SPACE AMBIENT OCCLUSION"
+					},
+					"Translation":
+					{
+						"Text": "BILDSCHIRMRAUM-UMGEBUNGSOKKLUSION"
+					},
+					"Key": "Graphics_ScreenAO"
+				},
+				{
+					"Source":
+					{
+						"Text": "SCREEN SPACE REFLECTIONS"
+					},
+					"Translation":
+					{
+						"Text": "REFLEXIONEN DES BILDSCHIRMS"
+					},
+					"Key": "Graphics_ScreenReflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "SHADOW QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "SCHATTENQUALITÄT"
+					},
+					"Key": "Graphics_Shadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "TAA"
+					},
+					"Translation":
+					{
+						"Text": "TAA"
+					},
+					"Key": "AA_TAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "TAA QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "TAA-QUALITÄT"
+					},
+					"Key": "Graphics_TAA_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "TEXTURE QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "TEXTURQUALITÄT"
+					},
+					"Key": "Graphics_Texture"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA"
+					},
+					"Translation":
+					{
+						"Text": "ULTRA"
+					},
+					"Key": "Settings_Ultra"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA LOW"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Settings_UltraLow"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "ULTRA LEISTUNG"
+					},
+					"Key": "Settings_UltraPerformance"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIEW DISTANCE"
+					},
+					"Translation":
+					{
+						"Text": "SICHTWEITE"
+					},
+					"Key": "Graphics_ViewDistance"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOLUMETRICS QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "VOLUMETRIE QUALITÄT"
+					},
+					"Key": "Graphics_Volumetrics"
+				},
+				{
+					"Source":
+					{
+						"Text": "VULKAN"
+					},
+					"Translation":
+					{
+						"Text": "VULKAN"
+					},
+					"Key": "API_Vulkan"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Cloud"
+					},
+					"Translation":
+					{
+						"Text": "Volumetrische Wolke"
+					},
+					"Key": "Graphics_VolumetricCloud"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": "Volumetrischer Nebel"
+					},
+					"Key": "Graphics_VolumetricFog"
+				},
+				{
+					"Source":
+					{
+						"Text": "WATER QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "WASSERQUALITÄT"
+					},
+					"Key": "Graphics_Water"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can not use Ray Tracing because your hardware configuration don't meet the requirements or your API is not Directx12."
+					},
+					"Translation":
+					{
+						"Text": "Sie können Raytracing nicht verwenden, weil Ihre Hardwarekonfiguration die Anforderungen nicht erfüllt oder Ihre API nicht Directx12 ist."
+					},
+					"Key": "RayTracingWarn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your chosen graphics settings are currently using more memory than you system has available. Please reduce your memory usage."
+					},
+					"Translation":
+					{
+						"Text": "Ihre gewählten Grafikeinstellungen verbrauchen derzeit mehr Speicher, als Ihrem System zur Verfügung steht. Bitte reduzieren Sie Ihren Speicherverbrauch."
+					},
+					"Key": "WarnVRAM"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Motel",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Room 100"
+					},
+					"Translation":
+					{
+						"Text": "Zimmer 100"
+					},
+					"Key": "room100"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 105"
+					},
+					"Translation":
+					{
+						"Text": "Zimmer 105"
+					},
+					"Key": "room105"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 204"
+					},
+					"Translation":
+					{
+						"Text": "Zimmer 204"
+					},
+					"Key": "room204"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 208"
+					},
+					"Translation":
+					{
+						"Text": "Zimmer 208"
+					},
+					"Key": "room208"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_MultiplayerMenu",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ammo Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Munitionsmultiplikator"
+					},
+					"Key": "CD_AmmoMultiplier"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ammo Spawn Time Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Munitions-Spawnzeit-Multiplikator"
+					},
+					"Key": "CD_AmmoSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boss Speed Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Boss-Geschwindigkeitsmultiplikator"
+					},
+					"Key": "CD_BossSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "CREATE"
+					},
+					"Translation":
+					{
+						"Text": "SCHAFFEN"
+					},
+					"Key": "Button_Create"
+				},
+				{
+					"Source":
+					{
+						"Text": "CREATE A SESSION"
+					},
+					"Translation":
+					{
+						"Text": "EINE SITZUNG ERSTELLEN"
+					},
+					"Key": "Create_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chances to Escape"
+					},
+					"Translation":
+					{
+						"Text": "Fluchtmöglichkeiten"
+					},
+					"Key": "CD_Chances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom DIfficulty"
+					},
+					"Translation":
+					{
+						"Text": "Benutzerdefinierter Schwierigkeitsgrad"
+					},
+					"Key": "CD_TItle"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIFFICULTY"
+					},
+					"Translation":
+					{
+						"Text": "SCHWIERIGKEIT"
+					},
+					"Key": "Create_Difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Schadensmultiplikator"
+					},
+					"Key": "CD_Damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Detected a session to reconnect"
+					},
+					"Translation":
+					{
+						"Text": "Eine Sitzung zum erneuten Verbinden erkannt"
+					},
+					"Key": "T_Reconnect"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable Enemies"
+					},
+					"Translation":
+					{
+						"Text": "Feinde deaktivieren"
+					},
+					"Key": "CD_DisableEnemies"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you want to reconnect to the last session?"
+					},
+					"Translation":
+					{
+						"Text": "Möchten Sie sich wieder mit der letzten Sitzung verbinden?"
+					},
+					"Key": "Q_Reconnect"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enemies Spawn Time Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Spawn-Zeit-Multiplikator für Feinde"
+					},
+					"Key": "CD_EnemiesSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "HARD"
+					},
+					"Translation":
+					{
+						"Text": "SCHWER"
+					},
+					"Key": "Difficulty_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "HOST NAME"
+					},
+					"Translation":
+					{
+						"Text": "HOSTNAME"
+					},
+					"Key": "HostName"
+				},
+				{
+					"Source":
+					{
+						"Text": "INSANE"
+					},
+					"Translation":
+					{
+						"Text": "VERRÜCKT"
+					},
+					"Key": "Difficulty_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVITE ONLY"
+					},
+					"Translation":
+					{
+						"Text": "NUR GELADENE GÄSTE"
+					},
+					"Key": "Create_InviteOnly"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invite"
+					},
+					"Translation":
+					{
+						"Text": "Einladen"
+					},
+					"Key": "Button_Invite"
+				},
+				{
+					"Source":
+					{
+						"Text": "JOIN"
+					},
+					"Translation":
+					{
+						"Text": "BEITRETEN"
+					},
+					"Key": "Button_Join"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Player"
+					},
+					"Translation":
+					{
+						"Text": "Kick-Spieler"
+					},
+					"Key": "T_Kick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kicked from session"
+					},
+					"Translation":
+					{
+						"Text": "Aus der Sitzung gekickt"
+					},
+					"Key": "T_Kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "MINIMUM OF 4 CHARACTERS"
+					},
+					"Translation":
+					{
+						"Text": "MINDESTENS 4 ZEICHEN"
+					},
+					"Key": "Create_MinimumCharacters"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mary can be invunerable"
+					},
+					"Translation":
+					{
+						"Text": "Maria kann unverwundbar sein"
+					},
+					"Key": "CD_MaryInvunerable"
+				},
+				{
+					"Source":
+					{
+						"Text": "NORMAL"
+					},
+					"Translation":
+					{
+						"Text": "NORMAL"
+					},
+					"Key": "Difficulty_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "PASSWORD"
+					},
+					"Translation":
+					{
+						"Text": "PASSWORT"
+					},
+					"Key": "Create_Password"
+				},
+				{
+					"Source":
+					{
+						"Text": "PLAYERS"
+					},
+					"Translation":
+					{
+						"Text": "SPIELER"
+					},
+					"Key": "Create_Players"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Speed Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "Multiplikator für die Spielergeschwindigkeit"
+					},
+					"Key": "CD_PlayerSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "REFRESH"
+					},
+					"Translation":
+					{
+						"Text": "AKTUALISIERUNG"
+					},
+					"Key": "Refresh"
+				},
+				{
+					"Source":
+					{
+						"Text": "SEARCHING"
+					},
+					"Translation":
+					{
+						"Text": "SUCHE"
+					},
+					"Key": "Searching"
+				},
+				{
+					"Source":
+					{
+						"Text": "SERVER NAME"
+					},
+					"Translation":
+					{
+						"Text": "SERVERNAME"
+					},
+					"Key": "Create_ServerName"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Motel"
+					},
+					"Translation":
+					{
+						"Text": "Das Motel"
+					},
+					"Key": "Map_Motel"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Prison"
+					},
+					"Translation":
+					{
+						"Text": "Das Gefängnis"
+					},
+					"Key": "Map_Prison"
+				},
+				{
+					"Source":
+					{
+						"Text": "USE PASSWORD"
+					},
+					"Translation":
+					{
+						"Text": "PASSWORT VERWENDEN"
+					},
+					"Key": "Create_UsePassword"
+				},
+				{
+					"Source":
+					{
+						"Text": "You have been kicked!"
+					},
+					"Translation":
+					{
+						"Text": "Du wurdest getreten!"
+					},
+					"Key": "T_KickedMessage"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Subtitle",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Find Barkannan’s spiritual bonfire and destroy the Soulstones."
+					},
+					"Translation":
+					{
+						"Text": "Finde Barkannans spirituelles Lagerfeuer und zerstöre die Seelensteine."
+					},
+					"Key": "FindBonfire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold your breath, the hydraulic system has been damaged. Go up and find another switch."
+					},
+					"Translation":
+					{
+						"Text": "Halten Sie den Atem an, das Hydrauliksystem ist beschädigt. Geh nach oben und finde einen anderen Schalter."
+					},
+					"Key": "HoldYourBreath"
+				},
+				{
+					"Source":
+					{
+						"Text": "There’s no energy, find a way to restore."
+					},
+					"Translation":
+					{
+						"Text": "Es gibt keine Energie, finde einen Weg zur Wiederherstellung."
+					},
+					"Key": "NoEnergy"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Tutorial",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Barkannan is hunting, shoot to stop him!"
+					},
+					"Translation":
+					{
+						"Text": "Barkannan jagt, schieße, um ihn aufzuhalten!"
+					},
+					"Key": "BarkHuntTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Barkannan is not hunting now. Save your ammo."
+					},
+					"Translation":
+					{
+						"Text": "Barkannan jagt jetzt nicht. Speichern Sie Ihre Munition."
+					},
+					"Key": "BarkCalm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect ammo boxes to always have a way to defend yourself."
+					},
+					"Translation":
+					{
+						"Text": "Sammle Munitionskisten, um immer eine Möglichkeit zu haben, dich zu verteidigen."
+					},
+					"Key": "AmmoTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect keys to open the locked doors. To see the keys that you haven't collected press"
+					},
+					"Translation":
+					{
+						"Text": "Sammle Schlüssel, um die verschlossenen Türen zu öffnen. Um die Schlüssel anzuzeigen, die Sie nicht gesammelt haben, drücken Sie"
+					},
+					"Key": "KeyTutorial"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't approach Raptors. They have a red spiritual light in their bodies."
+					},
+					"Translation":
+					{
+						"Text": "Nähere dich nicht den Raptoren. Sie haben ein rotes spirituelles Licht in ihrem Körper."
+					},
+					"Key": "RaptorTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't forget the key and go up."
+					},
+					"Translation":
+					{
+						"Text": "Vergiss den Schlüssel nicht und gehe hoch."
+					},
+					"Key": "DontForgetKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Eliminate the Obsessors. They have a purple spiritual light in their bodies."
+					},
+					"Translation":
+					{
+						"Text": "Eliminiere die Besessenen. Sie haben ein lila spirituelles Licht in ihren Körpern."
+					},
+					"Key": "ObssessorTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go to the cells and hold"
+					},
+					"Translation":
+					{
+						"Text": "Gehe zu den Zellen und halte"
+					},
+					"Key": "FreeTuto_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press"
+					},
+					"Translation":
+					{
+						"Text": "Drücken Sie"
+					},
+					"Key": "Press"
+				},
+				{
+					"Source":
+					{
+						"Text": "The spirit is invulnerable! Run or hide! "
+					},
+					"Translation":
+					{
+						"Text": "Der Geist ist unverwundbar! Laufen oder verstecken!"
+					},
+					"Key": "Motel_Invunerable"
+				},
+				{
+					"Source":
+					{
+						"Text": "To read the notes press"
+					},
+					"Translation":
+					{
+						"Text": "Um die Notizen zu lesen, drücken Sie"
+					},
+					"Key": "ReadNote"
+				},
+				{
+					"Source":
+					{
+						"Text": "To view the map and find the spiritual bonfire press"
+					},
+					"Translation":
+					{
+						"Text": "Um die Karte anzuzeigen und das spirituelle Lagerfeuer zu finden, drücken Sie"
+					},
+					"Key": "Bonfire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your allie has been caught. Go to him and hold "
+					},
+					"Translation":
+					{
+						"Text": "Ihr Verbündeter wurde gefasst. Geh zu ihm und halte"
+					},
+					"Key": "Motel_Free_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "to equip gun."
+					},
+					"Translation":
+					{
+						"Text": "Waffe auszurüsten."
+					},
+					"Key": "EquipGun"
+				},
+				{
+					"Source":
+					{
+						"Text": "to free your friend."
+					},
+					"Translation":
+					{
+						"Text": "um deinen Freund zu befreien."
+					},
+					"Key": "FreeTuto_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "to open inventory."
+					},
+					"Translation":
+					{
+						"Text": "Inventar zu öffnen."
+					},
+					"Key": "Inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "to view the passwords and use on the password panel"
+					},
+					"Translation":
+					{
+						"Text": "um die Passwörter anzuzeigen und im Passwortfeld zu verwenden"
+					},
+					"Key": "PasswordTuto"
+				}
+			]
+		}
+	]
+}

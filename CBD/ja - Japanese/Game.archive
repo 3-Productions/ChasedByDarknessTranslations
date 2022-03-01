@@ -1,0 +1,5165 @@
+﻿{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Children": [
+		{
+			"Source":
+			{
+				"Text": "According to the attack's description, it is an Ancestral Spirit."
+			},
+			"Translation":
+			{
+				"Text": "攻撃の説明によると、それは先祖の霊です。"
+			},
+			"Key": "CFE2B8DB475906278F95CCBF6C16EB5B"
+		},
+		{
+			"Source":
+			{
+				"Text": "After Charlie was arrested, Barkannan started to act."
+			},
+			"Translation":
+			{
+				"Text": "チャーリーが逮捕された後、バルカンナンは行動を開始しました。"
+			},
+			"Key": "6705906940FD9D0E8E4AE9B19F0948FF"
+		},
+		{
+			"Source":
+			{
+				"Text": "After the prison was evacuated, you were called in to deal with the situation."
+			},
+			"Translation":
+			{
+				"Text": "刑務所が避難した後、あなたは状況に対処するために呼ばれました。"
+			},
+			"Key": "75CE705A4CCECB67E1BA32BE8DA1E1A8"
+		},
+		{
+			"Source":
+			{
+				"Text": "As part of the job, you had to sign the terms for not disclosing case information."
+			},
+			"Translation":
+			{
+				"Text": "仕事の一環として、あなたは事件情報を開示しないための条件に署名しなければなりませんでした。"
+			},
+			"Key": "91B0F229420689F79FD6668F98739B66"
+		},
+		{
+			"Source":
+			{
+				"Text": "Authorities treated the victims' reports as collective hysteria."
+			},
+			"Translation":
+			{
+				"Text": "当局は被害者の報告を集団ヒステリーとして扱った。"
+			},
+			"Key": "0A750AE44666DED92A6242B551189730"
+		},
+		{
+			"Source":
+			{
+				"Text": "Barkannan influenced a mass suicide attempt in the penitentiary."
+			},
+			"Translation":
+			{
+				"Text": "バルカンナンは刑務所での集団自殺未遂に影響を与えた。"
+			},
+			"Key": "12ED3B5C409904C9CF1E48B7516C6647"
+		},
+		{
+			"Source":
+			{
+				"Text": "Barkannan is a bestial spirit who created a connection with Charlie Richards, a serial killer."
+			},
+			"Translation":
+			{
+				"Text": "バルカンナンは、連続殺人犯であるチャーリー・リチャーズとのつながりを築いた獣の精神です。"
+			},
+			"Key": "10C8246C42F586F90C1EF283D4198EC3"
+		},
+		{
+			"Source":
+			{
+				"Text": "But beware, Ancestral Spirits are never alone."
+			},
+			"Translation":
+			{
+				"Text": "しかし、注意してください、祖先の霊は決して一人ではありません。"
+			},
+			"Key": "994A512C4FAEAB414492B092FBA34134"
+		},
+		{
+			"Source":
+			{
+				"Text": "But his appearance at the Paradise Motel intrigued me."
+			},
+			"Translation":
+			{
+				"Text": "しかし、パラダイスモーテルでの彼の登場は私に興味をそそられました。"
+			},
+			"Key": "9FB7525D4FF08870296EF6A71F53E1C8"
+		},
+		{
+			"Source":
+			{
+				"Text": "But you only have 3 bullets, use it wisely."
+			},
+			"Translation":
+			{
+				"Text": "しかし、弾丸は3つしかないので、賢く使ってください。"
+			},
+			"Key": "0FBA4F294240029DD0469CB1BFC5A314"
+		},
+		{
+			"Source":
+			{
+				"Text": "Deactivate the orbs to remove the spirit's protection and manage to weaken it for banishment."
+			},
+			"Translation":
+			{
+				"Text": "オーブを非アクティブ化してスピリットの保護を解除し、追放のためにそれを弱めることができます。"
+			},
+			"Key": "A25DAA3B49B103B3A5F7D7895D0365A5"
+		},
+		{
+			"Source":
+			{
+				"Text": "Feeding it will make it stronger,"
+			},
+			"Translation":
+			{
+				"Text": "それを与えることはそれをより強くするでしょう、"
+			},
+			"Key": "E696AF6E48A5CEFDFBFD7BA5C1AB9484"
+		},
+		{
+			"Source":
+			{
+				"Text": "Find a way to feed the spirit of gluttony with meat,"
+			},
+			"Translation":
+			{
+				"Text": "肉で大食いの精神を養う方法を見つけてください、"
+			},
+			"Key": "AEC1921546D411712E2BB393C220D08A"
+		},
+		{
+			"Source":
+			{
+				"Text": "Find the Brogloton’s Table and feed him."
+			},
+			"Translation":
+			{
+				"Text": "Brogloton’s Tableを見つけて、彼に餌をやる。"
+			},
+			"Key": "3F3FFD714AE21B9B6CC4CBB718FCFF24"
+		},
+		{
+			"Source":
+			{
+				"Text": "First, you need to reactivate the energy."
+			},
+			"Translation":
+			{
+				"Text": "まず、エネルギーを再活性化する必要があります。"
+			},
+			"Key": "4BD2A0CC42AF8434B59E69915A3A6B93"
+		},
+		{
+			"Source":
+			{
+				"Text": "For reasons still unknown, a spirit ended up making victims at the Paradise Motel."
+			},
+			"Translation":
+			{
+				"Text": "理由はまだ不明ですが、精神がパラダイスモーテルで犠牲者を作ることになりました。"
+			},
+			"Key": "034B73D14BEEDAFA25B4FA8A29E580B4"
+		},
+		{
+			"Source":
+			{
+				"Text": "Hello?"
+			},
+			"Translation":
+			{
+				"Text": "こんにちは？"
+			},
+			"Key": "EDC137AF4EA8732D0612EEA973E26A64"
+		},
+		{
+			"Source":
+			{
+				"Text": "Knowing that Barkannan will not be the last bothers me,"
+			},
+			"Translation":
+			{
+				"Text": "バルカンナンが最後ではないことを知って、私を悩ませます、"
+			},
+			"Key": "D8C4FC1F47C8D2543D6B74ADFE0AC2DF"
+		},
+		{
+			"Source":
+			{
+				"Text": "Oh, I need to let you know that the director hasn't returned my calls, so stay tuned."
+			},
+			"Translation":
+			{
+				"Text": "ああ、ディレクターが私の電話を返さなかったことをあなたに知らせる必要があるので、お楽しみに。"
+			},
+			"Key": "19F85E0449B5C3833F900C8F0331A36B"
+		},
+		{
+			"Source":
+			{
+				"Text": "Ok, I’m going to recap."
+			},
+			"Translation":
+			{
+				"Text": "さて、要約します。"
+			},
+			"Key": "236F47164476977597A95F8679B0E20F"
+		},
+		{
+			"Source":
+			{
+				"Text": "One of the guests who escaped asked for our help."
+			},
+			"Translation":
+			{
+				"Text": "逃げたゲストの一人が私たちの助けを求めました。"
+			},
+			"Key": "34AA9C3C4B7B810A60F5E18EBD4A2725"
+		},
+		{
+			"Source":
+			{
+				"Text": "Second, collect the Obsessors' Soul Stones. And then, find the Barkannan’s spiritual bonfire and destroy the Soul Stones."
+			},
+			"Translation":
+			{
+				"Text": "第二に、強迫観念の魂の石を収集します。 そして、バルカンナンの精神的な焚き火を見つけて、ソウルストーンを破壊します。"
+			},
+			"Key": "7324153749F9EC291B9E078C508C7F2C"
+		},
+		{
+			"Source":
+			{
+				"Text": "Since this is a spirit that needs a body to possess, you will need to make the spirit leave the host body,"
+			},
+			"Translation":
+			{
+				"Text": "これは体を持っている必要がある霊なので、霊を宿主の体から離れさせる必要があります、"
+			},
+			"Key": "CE2203E3476A2ADFAC9CC088B08A37E3"
+		},
+		{
+			"Source":
+			{
+				"Text": "So for today the job is done."
+			},
+			"Translation":
+			{
+				"Text": "それで、今日の仕事は終わりました。"
+			},
+			"Key": "ADD6CE804DCDF384202760B9FB11CB05"
+		},
+		{
+			"Source":
+			{
+				"Text": "Sometimes, a person ends up attracting certain entities,"
+			},
+			"Translation":
+			{
+				"Text": "時々、人は特定の実体を引き付けることになります、"
+			},
+			"Key": "F01DC0F14A39D3F839FF0AA3A92A825F"
+		},
+		{
+			"Source":
+			{
+				"Text": "The Ancestral Spirit used the energy he acquired to summon Orbs of Protection."
+			},
+			"Translation":
+			{
+				"Text": "先祖の霊は彼が獲得したエネルギーを使って保護のオーブを召喚しました。"
+			},
+			"Key": "5158D2D2494CA515818D7AAC43F799B9"
+		},
+		{
+			"Source":
+			{
+				"Text": "The banishment of Brogloton has been carried out successfully."
+			},
+			"Translation":
+			{
+				"Text": "ブログロトンの追放は成功裏に行われた。"
+			},
+			"Key": "4F376320423F3C698CC2AB941AA5B145"
+		},
+		{
+			"Source":
+			{
+				"Text": "They are more powerful than common spirits, and need a host to obey the summoner's orders."
+			},
+			"Translation":
+			{
+				"Text": "彼らは一般的な精神よりも強力であり、召喚者の命令に従うためにホストが必要です。"
+			},
+			"Key": "B029C9C141D48AF298F1CDA864AA0758"
+		},
+		{
+			"Source":
+			{
+				"Text": "This is strange…"
+			},
+			"Translation":
+			{
+				"Text": "変ですね…"
+			},
+			"Key": "2BA641124BDAD2DB0673E3A33AF3D522"
+		},
+		{
+			"Source":
+			{
+				"Text": "Two spirit attacks that left casualties,"
+			},
+			"Translation":
+			{
+				"Text": "死傷者を残したトゥースピリット攻撃、"
+			},
+			"Key": "0FDF25854E639DF69C503E886589BCED"
+		},
+		{
+			"Source":
+			{
+				"Text": "Use the explosive ammo, it has more stun power."
+			},
+			"Translation":
+			{
+				"Text": "爆発性の弾薬を使用してください、それはより多くのスタンパワーを持っています。"
+			},
+			"Key": "6BEB2F4240B7425A6E098CA58B904765"
+		},
+		{
+			"Source":
+			{
+				"Text": "Wait, on a ship?"
+			},
+			"Translation":
+			{
+				"Text": "待って、船で？"
+			},
+			"Key": "FF92E5F24959339D3BA4D7A1D965C353"
+		},
+		{
+			"Source":
+			{
+				"Text": "When summoned, they bring with them their lackeys,"
+			},
+			"Translation":
+			{
+				"Text": "召喚されると、彼らは彼らの不足者を連れてきます、"
+			},
+			"Key": "DBD52AAA4CDDE5336077C582062576B3"
+		},
+		{
+			"Source":
+			{
+				"Text": "With Barkannan banished to the spiritual plane, the other spirits began to disappear."
+			},
+			"Translation":
+			{
+				"Text": "バルカンナンが精神面に追放されると、他の精神は消え始めました。"
+			},
+			"Key": "C70FB1064C737FCBD9160C823C535857"
+		},
+		{
+			"Source":
+			{
+				"Text": "and only then can the banishment be carried out."
+			},
+			"Translation":
+			{
+				"Text": "そうして初めて追放を行うことができます。"
+			},
+			"Key": "3CC2D4B648047E81DB36D28B32B18943"
+		},
+		{
+			"Source":
+			{
+				"Text": "and two brothers of the Richards family were at the scene."
+			},
+			"Translation":
+			{
+				"Text": "そしてリチャーズ家の2人の兄弟が現場にいました。"
+			},
+			"Key": "96F0525F422B44694874F2961070B389"
+		},
+		{
+			"Source":
+			{
+				"Text": "but it will eventually leave the host's body and assume its true form,"
+			},
+			"Translation":
+			{
+				"Text": "しかし、それは最終的に宿主の体を離れ、その真の形をとるでしょう、"
+			},
+			"Key": "C0B807934F7B25D1850513A18875520D"
+		},
+		{
+			"Source":
+			{
+				"Text": "but our job is not to speculate about the cases, but to eliminate the threats."
+			},
+			"Translation":
+			{
+				"Text": "しかし、私たちの仕事は、事件について推測することではなく、脅威を排除することです。"
+			},
+			"Key": "07B33F744E3709939AFFF8BD7822A96F"
+		},
+		{
+			"Source":
+			{
+				"Text": "but what makes me relieved is to know that when a new problem arises,"
+			},
+			"Translation":
+			{
+				"Text": "しかし、私を安心させるのは、新しい問題が発生したときに、"
+			},
+			"Key": "E90BD88D4D7A2829C8E84CBF332518A7"
+		},
+		{
+			"Source":
+			{
+				"Text": "creating a strong connection and making those entities stronger."
+			},
+			"Translation":
+			{
+				"Text": "強いつながりを作り、それらの実体をより強くします。"
+			},
+			"Key": "6B7659AC47ADF840D12DA68C1E12F0E9"
+		},
+		{
+			"Source":
+			{
+				"Text": "creatures of the underworld subservient to the summoned spirit."
+			},
+			"Translation":
+			{
+				"Text": "召喚された精神に従属する冥界の生き物。"
+			},
+			"Key": "369D912648EDAA9BE7884C92579EC097"
+		},
+		{
+			"Source":
+			{
+				"Text": "it feeds on the energy that the living being had in life."
+			},
+			"Translation":
+			{
+				"Text": "それは、生き物が人生で持っていたエネルギーを供給します。"
+			},
+			"Key": "BAED9B7440EFD35E98EE8E8FFA5CA971"
+		},
+		{
+			"Source":
+			{
+				"Text": "otherwise the banishment cannot be performed."
+			},
+			"Translation":
+			{
+				"Text": "そうしないと、追放を実行できません。"
+			},
+			"Key": "ED84A29A4FAC58D66028B798C6D299DF"
+		},
+		{
+			"Source":
+			{
+				"Text": "you will be there."
+			},
+			"Translation":
+			{
+				"Text": "あなたはそこにいるでしょう。"
+			},
+			"Key": "6C28D9CA4A9938C53C401889432F0F9F"
+		}
+	],
+	"Subnamespaces": [
+		{
+			"Namespace": "ST_Audio",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AUDIO"
+					},
+					"Translation":
+					{
+						"Text": "オーディオ"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completely enable or disable voice chat."
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャットを完全に有効または無効にします。"
+					},
+					"Key": "D_ChatVoiceEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls if voice chat will be captured automatically while speaking (voice activated) or only while push the Push to Talk hotkey is pressed."
+					},
+					"Translation":
+					{
+						"Text": "話している間（音声がアクティブになっている）、またはプッシュツートークホットキーが押されている間だけボイスチャットを自動的にキャプチャするかどうかを制御します。"
+					},
+					"Key": "D_ChatMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the microphone for voice chat. If set to Off but the Voice Chat Enabled is set to On, inbound voice chat will still be present."
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャット用のマイクを制御します。 [オフ]に設定されているが、[ボイスチャットの有効化]が[オン]に設定されている場合、着信ボイスチャットは引き続き存在します。"
+					},
+					"Key": "D_MicEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the overall volume of in-game sounds, dialogue and music."
+					},
+					"Translation":
+					{
+						"Text": "ゲーム内のサウンド、ダイアログ、音楽の全体的な音量を制御します。"
+					},
+					"Key": "D_SoundVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the overall volume of the musical score."
+					},
+					"Translation":
+					{
+						"Text": "楽譜の全体的な音量を制御します。"
+					},
+					"Key": "D_ScoreVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of dialogue relative to SFX and music."
+					},
+					"Translation":
+					{
+						"Text": "SFXと音楽に関連する対話の音量を制御します。"
+					},
+					"Key": "D_DialogVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of inbound voice chat."
+					},
+					"Translation":
+					{
+						"Text": "インバウンドボイスチャットの音量を制御します。"
+					},
+					"Key": "D_ChatVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls the volume of your inbound voice chat."
+					},
+					"Translation":
+					{
+						"Text": "インバウンドボイスチャットの音量を制御します。"
+					},
+					"Key": "D_MicVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIALOGUE BALANCE"
+					},
+					"Translation":
+					{
+						"Text": "対話バランス"
+					},
+					"Key": "DialogBalance"
+				},
+				{
+					"Source":
+					{
+						"Text": "INPUT DEVICE"
+					},
+					"Translation":
+					{
+						"Text": "入力デバイス"
+					},
+					"Key": "VC_InDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "LATENCY"
+					},
+					"Translation":
+					{
+						"Text": "レイテンシー"
+					},
+					"Key": "Latency"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE ENABLED"
+					},
+					"Translation":
+					{
+						"Text": "マイク対応"
+					},
+					"Key": "VC_MicEnabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "マイク感度"
+					},
+					"Key": "VC_MicSensivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "MICROPHONE VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "マイクボリューム"
+					},
+					"Key": "VC_MicVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "MUSICAL VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "ミュージカルボリューム"
+					},
+					"Key": "ScoreVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT"
+					},
+					"Translation":
+					{
+						"Text": "出力"
+					},
+					"Key": "Output"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT DEVICE"
+					},
+					"Translation":
+					{
+						"Text": "出力機器"
+					},
+					"Key": "VC_OutDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "PUSH TO TALK"
+					},
+					"Translation":
+					{
+						"Text": "プッシュツートーク"
+					},
+					"Key": "VC_Mode_Push"
+				},
+				{
+					"Source":
+					{
+						"Text": "SOUND VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "音量"
+					},
+					"Key": "SoundVolume"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the Speakers or Headphones used for voice chat audio playback."
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャットオーディオの再生に使用するスピーカーまたはヘッドホンを選択します。"
+					},
+					"Key": "D_OutputDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the input device for capturing outbound voice chat audio."
+					},
+					"Translation":
+					{
+						"Text": "アウトバウンドボイスチャットオーディオをキャプチャするための入力デバイスを選択します。"
+					},
+					"Key": "D_InputDevice"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE ACTIVATED"
+					},
+					"Translation":
+					{
+						"Text": "音声がアクティブになりました"
+					},
+					"Key": "VC_Mode_Open"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT"
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャット"
+					},
+					"Key": "Topic_VoiceChat"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT ENABLED"
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャットが有効になりました"
+					},
+					"Key": "VC_Enabled"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT MODE"
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャットモード"
+					},
+					"Key": "VC_Mode"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOICE CHAT VOLUME"
+					},
+					"Translation":
+					{
+						"Text": "ボイスチャットボリューム"
+					},
+					"Key": "VC_Volume"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_BrightnessCalibration",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "BRIGHTNESS CALIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "明るさのキャリブレーション"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Please calibrate your display."
+					},
+					"Translation":
+					{
+						"Text": "ディスプレイを調整してください。"
+					},
+					"Key": "Info"
+				},
+				{
+					"Source":
+					{
+						"Text": "The background image on the left should be nearly invisible and the background image on the right should be clearly visible."
+					},
+					"Translation":
+					{
+						"Text": "左側の背景画像はほとんど見えず、右側の背景画像ははっきりと見えるはずです。"
+					},
+					"Key": "Description"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Controls",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Adjust the Aim Look Sensitivity setting."
+					},
+					"Translation":
+					{
+						"Text": "エイムルックの感度設定を調整します。"
+					},
+					"Key": "D_MouseSensitivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the X-axis sensitivity."
+					},
+					"Translation":
+					{
+						"Text": "X軸の感度を調整します。"
+					},
+					"Key": "D_MouseX"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the Y-axis sensitivity."
+					},
+					"Translation":
+					{
+						"Text": "Y軸の感度を調整します。"
+					},
+					"Key": "D_MouseY"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER"
+					},
+					"Translation":
+					{
+						"Text": "コントローラ"
+					},
+					"Key": "Topic_Gamepad"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER DISPLAY"
+					},
+					"Translation":
+					{
+						"Text": "コントローラーディスプレイ"
+					},
+					"Key": "ControllerDisplay"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER X SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "コントローラーXの感度"
+					},
+					"Key": "ControllerXSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLLER Y SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "コントローラーYの感度"
+					},
+					"Key": "ControllerYSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROLS"
+					},
+					"Translation":
+					{
+						"Text": "コントロール"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choose to have Vibration feedback from the controller."
+					},
+					"Translation":
+					{
+						"Text": "コントローラからの振動フィードバックを選択します。"
+					},
+					"Key": "D_Vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "Customize your keyboard and mouse mappings."
+					},
+					"Translation":
+					{
+						"Text": "キーボードとマウスのマッピングをカスタマイズします。"
+					},
+					"Key": "D_KeyMapping"
+				},
+				{
+					"Source":
+					{
+						"Text": "IGNORE CONTROLLER"
+					},
+					"Translation":
+					{
+						"Text": "コントローラーを無視する"
+					},
+					"Key": "IgnoreController"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT HORIZONTAL"
+					},
+					"Translation":
+					{
+						"Text": "水平方向を反転"
+					},
+					"Key": "InvertHorizontal"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT LOOK"
+					},
+					"Translation":
+					{
+						"Text": "インバートルック"
+					},
+					"Key": "InvertLook"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVERT VERTICAL"
+					},
+					"Translation":
+					{
+						"Text": "垂直に反転"
+					},
+					"Key": "InvertVertical"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignore controller commands."
+					},
+					"Translation":
+					{
+						"Text": "コントローラコマンドを無視します。"
+					},
+					"Key": "D_IgnoreController"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the Y-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "メインカメラと照準制御のY軸を反転します。"
+					},
+					"Key": "D_InvertLookContoller"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the mouse X-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "メインカメラと照準コントロールのマウスX軸を反転します。"
+					},
+					"Key": "D_InvertHorizontal"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invert the mouse Y-axis of the main camera and aiming control."
+					},
+					"Translation":
+					{
+						"Text": "メインカメラと照準コントロールのマウスY軸を反転します。"
+					},
+					"Key": "D_InvertVertical"
+				},
+				{
+					"Source":
+					{
+						"Text": "KEY MAPPING"
+					},
+					"Translation":
+					{
+						"Text": "キーマッピング"
+					},
+					"Key": "KeyMapping"
+				},
+				{
+					"Source":
+					{
+						"Text": "KEYBOARD AND MOUSE"
+					},
+					"Translation":
+					{
+						"Text": "キーボードとマウス"
+					},
+					"Key": "Topic_Keyboard"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key Already Used"
+					},
+					"Translation":
+					{
+						"Text": "すでに使用されているキー"
+					},
+					"Key": "T_KeyUsed"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "マウス感度"
+					},
+					"Key": "MouseSensivity"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE SMOOTHING"
+					},
+					"Translation":
+					{
+						"Text": "マウススムージング"
+					},
+					"Key": "MouseSmoothing"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE X SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "マウスX感度"
+					},
+					"Key": "MouseXSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOUSE Y SENSITIVITY"
+					},
+					"Translation":
+					{
+						"Text": "マウスYの感度"
+					},
+					"Key": "MouseYSens"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 1"
+					},
+					"Translation":
+					{
+						"Text": "オプション1"
+					},
+					"Key": "ControllerDisplay_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 2"
+					},
+					"Translation":
+					{
+						"Text": "オプション2"
+					},
+					"Key": "ControllerDisplay_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "OPTION 3"
+					},
+					"Translation":
+					{
+						"Text": "オプション3"
+					},
+					"Key": "ControllerDisplay_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "PRESS A KEY"
+					},
+					"Translation":
+					{
+						"Text": "キーを押す"
+					},
+					"Key": "Text_PressAKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "The controller used when displaying icons and prompts."
+					},
+					"Translation":
+					{
+						"Text": "アイコンとプロンプトを表示するときに使用されるコントローラー。"
+					},
+					"Key": "D_ControllerDisplay"
+				},
+				{
+					"Source":
+					{
+						"Text": "This key is already in use, do you want to overwrite the input?"
+					},
+					"Translation":
+					{
+						"Text": "このキーはすでに使用されていますが、入力を上書きしますか？"
+					},
+					"Key": "Q_KeyUsed"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "振動"
+					},
+					"Key": "Vibration"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIEW CONTROLS"
+					},
+					"Translation":
+					{
+						"Text": "コントロールを表示"
+					},
+					"Key": "ViewControls"
+				},
+				{
+					"Source":
+					{
+						"Text": "View the current controller input settings."
+					},
+					"Translation":
+					{
+						"Text": "現在のコントローラー入力設定を表示します。"
+					},
+					"Key": "D_ViewControlls"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Descriptions",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Customize the variables of the selected difficulty (win achievements will not count)"
+					},
+					"Translation":
+					{
+						"Text": "選択した難易度の変数をカスタマイズします（勝利の成果はカウントされません）"
+					},
+					"Key": "CD_D_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enables or disables enemy spawning on the map (with the exception of the main boss)"
+					},
+					"Translation":
+					{
+						"Text": "マップ上での敵のスポーンを有効または無効にします（メインボスを除く）"
+					},
+					"Key": "CD_D_DisabeSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Increases or decreases the chances you have of escaping without losing the game"
+					},
+					"Translation":
+					{
+						"Text": "ゲームを失うことなく逃げる可能性を増減します"
+					},
+					"Key": "CD_D_Chances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies boss speed"
+					},
+					"Translation":
+					{
+						"Text": "ボスの速度を掛ける"
+					},
+					"Key": "CD_D_Boss_Speed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies player speed"
+					},
+					"Translation":
+					{
+						"Text": "プレイヤーの速度を倍増"
+					},
+					"Key": "CD_D_PlayerSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the amount of ammo you get from ammo boxes"
+					},
+					"Translation":
+					{
+						"Text": "弾薬箱から得られる弾薬の量を乗算します"
+					},
+					"Key": "CD_D_AmmoMultiplier"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the damage dealt to the boss"
+					},
+					"Translation":
+					{
+						"Text": "上司に与えられたダメージを倍増する"
+					},
+					"Key": "CD_D_Damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the time it takes for enemies to spawn"
+					},
+					"Translation":
+					{
+						"Text": "敵がスポーンするのにかかる時間を倍増します"
+					},
+					"Key": "CD_D_EnemiesTime"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplies the time it takes to spawn an ammo box"
+					},
+					"Translation":
+					{
+						"Text": "弾薬箱をスポーンするのにかかる時間を掛けます"
+					},
+					"Key": "CD_D_AmmoSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Set if Mary can be invulnerable at times after completing an objective"
+					},
+					"Translation":
+					{
+						"Text": "目標を達成した後、メアリーが時々無敵になることができるかどうかを設定します"
+					},
+					"Key": "CD_D_MaryInvunerable"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Discord",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alive"
+					},
+					"Translation":
+					{
+						"Text": "生きている"
+					},
+					"Key": "Alive"
+				},
+				{
+					"Source":
+					{
+						"Text": "Arrested"
+					},
+					"Translation":
+					{
+						"Text": "逮捕された"
+					},
+					"Key": "Arrested"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "メインメニュー"
+					},
+					"Key": "State_MainMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Meats"
+					},
+					"Translation":
+					{
+						"Text": "肉"
+					},
+					"Key": "Meats"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplayer Game"
+					},
+					"Translation":
+					{
+						"Text": "マルチプレイヤーゲーム"
+					},
+					"Key": "State_Multi"
+				},
+				{
+					"Source":
+					{
+						"Text": "On Lobby"
+					},
+					"Translation":
+					{
+						"Text": "ロビーで"
+					},
+					"Key": "State_Lobby"
+				},
+				{
+					"Source":
+					{
+						"Text": "Players"
+					},
+					"Translation":
+					{
+						"Text": "プレイヤー"
+					},
+					"Key": "Details_Players"
+				},
+				{
+					"Source":
+					{
+						"Text": "Singleplayer Game"
+					},
+					"Translation":
+					{
+						"Text": "シングルプレイヤーゲーム"
+					},
+					"Key": "State_Single"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soul Stones"
+					},
+					"Translation":
+					{
+						"Text": "ソウルストーンズ"
+					},
+					"Key": "SoulStones"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Display",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "BORDERLESS"
+					},
+					"Translation":
+					{
+						"Text": "ボーダーレス"
+					},
+					"Key": "WindowMode_WindowedFullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "Big"
+					},
+					"Translation":
+					{
+						"Text": "大"
+					},
+					"Key": "SubSize3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chinese (Simplified)"
+					},
+					"Translation":
+					{
+						"Text": "中国語（簡体字）"
+					},
+					"Key": "L_Chinese"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chinese (Traditional)"
+					},
+					"Translation":
+					{
+						"Text": "中国の伝統的な）"
+					},
+					"Key": "L_ChineseTrad"
+				},
+				{
+					"Source":
+					{
+						"Text": "Czech"
+					},
+					"Translation":
+					{
+						"Text": "チェコ語"
+					},
+					"Key": "L_Czech"
+				},
+				{
+					"Source":
+					{
+						"Text": "DISPLAY"
+					},
+					"Translation":
+					{
+						"Text": "画面"
+					},
+					"Key": "Display"
+				},
+				{
+					"Source":
+					{
+						"Text": "DISPLAY AND GENERAL"
+					},
+					"Translation":
+					{
+						"Text": "表示と一般"
+					},
+					"Key": "Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable all shakes effects, like camera shake."
+					},
+					"Translation":
+					{
+						"Text": "手ぶれなど、すべての手ぶれ効果を無効にします。"
+					},
+					"Key": "D_HeadBobbing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you want to keep this resolution?"
+					},
+					"Translation":
+					{
+						"Text": "この解像度を維持しますか？"
+					},
+					"Key": "T_KeepResolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable or disable High Dynamic Range."
+					},
+					"Translation":
+					{
+						"Text": "ハイダイナミックレンジを有効または無効にします。"
+					},
+					"Key": "D_HDR"
+				},
+				{
+					"Source":
+					{
+						"Text": "English"
+					},
+					"Translation":
+					{
+						"Text": "英語"
+					},
+					"Key": "L_English"
+				},
+				{
+					"Source":
+					{
+						"Text": "FPS LIMIT"
+					},
+					"Translation":
+					{
+						"Text": "FPS制限"
+					},
+					"Key": "RefreshRate"
+				},
+				{
+					"Source":
+					{
+						"Text": "FULLSCREEN"
+					},
+					"Translation":
+					{
+						"Text": "全画面表示"
+					},
+					"Key": "WindowMode_Fullscreen"
+				},
+				{
+					"Source":
+					{
+						"Text": "French"
+					},
+					"Translation":
+					{
+						"Text": "フランス語"
+					},
+					"Key": "L_French"
+				},
+				{
+					"Source":
+					{
+						"Text": "GENERAL"
+					},
+					"Translation":
+					{
+						"Text": "全般的"
+					},
+					"Key": "General"
+				},
+				{
+					"Source":
+					{
+						"Text": "German"
+					},
+					"Translation":
+					{
+						"Text": "ドイツ人"
+					},
+					"Key": "L_German"
+				},
+				{
+					"Source":
+					{
+						"Text": "HDR"
+					},
+					"Translation":
+					{
+						"Text": "HDR"
+					},
+					"Key": "HDR"
+				},
+				{
+					"Source":
+					{
+						"Text": "Head Bobbing"
+					},
+					"Translation":
+					{
+						"Text": "ヘッドボビング"
+					},
+					"Key": "HeadBobbing"
+				},
+				{
+					"Source":
+					{
+						"Text": "Italian"
+					},
+					"Translation":
+					{
+						"Text": "イタリアの"
+					},
+					"Key": "L_Italian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Japanese"
+					},
+					"Translation":
+					{
+						"Text": "日本"
+					},
+					"Key": "L_Japanese"
+				},
+				{
+					"Source":
+					{
+						"Text": "Korean"
+					},
+					"Translation":
+					{
+						"Text": "韓国語"
+					},
+					"Key": "L_Korean"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "言語"
+					},
+					"Key": "T_Language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language Description"
+					},
+					"Translation":
+					{
+						"Text": "言語の説明"
+					},
+					"Key": "D_Language"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "普通"
+					},
+					"Key": "SubSize2"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT ADAPTER"
+					},
+					"Translation":
+					{
+						"Text": "出力アダプター"
+					},
+					"Key": "OutputAdapter"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUTPUT MONITOR"
+					},
+					"Translation":
+					{
+						"Text": "出力モニター"
+					},
+					"Key": "OutputMonitor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Polish"
+					},
+					"Translation":
+					{
+						"Text": "研磨"
+					},
+					"Key": "L_Polish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Portuguese (Brazil)"
+					},
+					"Translation":
+					{
+						"Text": "ポルトガル語（ブラジル）"
+					},
+					"Key": "L_Portuguese"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESOLUTION"
+					},
+					"Translation":
+					{
+						"Text": "解像度"
+					},
+					"Key": "Resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Russian"
+					},
+					"Translation":
+					{
+						"Text": "ロシア"
+					},
+					"Key": "L_Russian"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select between Fullscreen, Windowed and Windowed Borderless mode."
+					},
+					"Translation":
+					{
+						"Text": "フルスクリーン、ウィンドウ、ウィンドウのボーダレスモードから選択します。"
+					},
+					"Key": "D_WindowMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select desired output monitor."
+					},
+					"Translation":
+					{
+						"Text": "目的の出力モニターを選択します。"
+					},
+					"Key": "D_OutputMonitor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select desired screen resolution."
+					},
+					"Translation":
+					{
+						"Text": "希望の画面解像度を選択します。"
+					},
+					"Key": "D_Resolution"
+				},
+				{
+					"Source":
+					{
+						"Text": "Select the limit of in-game FPS. This can help to reduce screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "ゲーム内FPSの制限を選択します。これは、画面のティアリングを減らすのに役立ちます。"
+					},
+					"Key": "D_FPSLimit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small"
+					},
+					"Translation":
+					{
+						"Text": "小さな"
+					},
+					"Key": "SubSize1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spanish"
+					},
+					"Translation":
+					{
+						"Text": "スペイン語"
+					},
+					"Key": "L_Spanish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle"
+					},
+					"Translation":
+					{
+						"Text": "字幕"
+					},
+					"Key": "T_Subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Color"
+					},
+					"Translation":
+					{
+						"Text": "字幕の色"
+					},
+					"Key": "T_SubtitleColor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Color Desc"
+					},
+					"Translation":
+					{
+						"Text": "字幕の色の説明"
+					},
+					"Key": "D_SubtitleColor"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Description"
+					},
+					"Translation":
+					{
+						"Text": "字幕の説明"
+					},
+					"Key": "D_Subtitle"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Size"
+					},
+					"Translation":
+					{
+						"Text": "字幕サイズ"
+					},
+					"Key": "T_SubtitleSize"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitle Size Desc"
+					},
+					"Translation":
+					{
+						"Text": "字幕サイズ説明"
+					},
+					"Key": "D_SubtitleSize"
+				},
+				{
+					"Source":
+					{
+						"Text": "Synchronizes rendering frame rate with monitor refresh rate. This can help to reduce screen tearing."
+					},
+					"Translation":
+					{
+						"Text": "レンダリングフレームレートをモニターのリフレッシュレートと同期します。これは、画面のティアリングを減らすのに役立ちます。"
+					},
+					"Key": "D_Vsync"
+				},
+				{
+					"Source":
+					{
+						"Text": "TRIPLE BUFFERING"
+					},
+					"Translation":
+					{
+						"Text": "トリプルバッファリング"
+					},
+					"Key": "TripleBuffering"
+				},
+				{
+					"Source":
+					{
+						"Text": "Thai"
+					},
+					"Translation":
+					{
+						"Text": "タイ語"
+					},
+					"Key": "L_Thai"
+				},
+				{
+					"Source":
+					{
+						"Text": "Turkish"
+					},
+					"Translation":
+					{
+						"Text": "トルコ語"
+					},
+					"Key": "L_Turkish"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlimited"
+					},
+					"Translation":
+					{
+						"Text": "無制限"
+					},
+					"Key": "RefreshRate_Unlimited"
+				},
+				{
+					"Source":
+					{
+						"Text": "VSYNC"
+					},
+					"Translation":
+					{
+						"Text": "VSYNC"
+					},
+					"Key": "VSync"
+				},
+				{
+					"Source":
+					{
+						"Text": "WINDOW MODE"
+					},
+					"Translation":
+					{
+						"Text": "ウィンドウモード"
+					},
+					"Key": "WindowMode"
+				},
+				{
+					"Source":
+					{
+						"Text": "WINDOWED"
+					},
+					"Translation":
+					{
+						"Text": "窓付き"
+					},
+					"Key": "WindowMode_Windowed"
+				},
+				{
+					"Source":
+					{
+						"Text": "White"
+					},
+					"Translation":
+					{
+						"Text": "白い"
+					},
+					"Key": "SubColor1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Yellow"
+					},
+					"Translation":
+					{
+						"Text": "黄"
+					},
+					"Key": "SubColor2"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_GameMessages",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Allies Rescued:"
+					},
+					"Translation":
+					{
+						"Text": "救助された同盟国："
+					},
+					"Key": "Allies"
+				},
+				{
+					"Source":
+					{
+						"Text": "Brogloton can hear your footsteps and see your flashlight. Be careful!"
+					},
+					"Translation":
+					{
+						"Text": "Broglotonはあなたの足音を聞き、懐中電灯を見ることができます。気をつけて！"
+					},
+					"Key": "BroglotonBehavior"
+				},
+				{
+					"Source":
+					{
+						"Text": "Completed Objectives:"
+					},
+					"Translation":
+					{
+						"Text": "完了した目標："
+					},
+					"Key": "MotelObjectives"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "出口"
+					},
+					"Key": "Unhide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Time:"
+					},
+					"Translation":
+					{
+						"Text": "ゲームの時間："
+					},
+					"Key": "GameTime"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hide"
+					},
+					"Translation":
+					{
+						"Text": "隠れる"
+					},
+					"Key": "Hide"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lackeys Eliminated:"
+					},
+					"Translation":
+					{
+						"Text": "排除されたラッキー："
+					},
+					"Key": "Lackeys"
+				},
+				{
+					"Source":
+					{
+						"Text": "Players in Room"
+					},
+					"Translation":
+					{
+						"Text": "部屋のプレイヤー"
+					},
+					"Key": "PlayersInRoom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Raptors Eliminated:"
+					},
+					"Translation":
+					{
+						"Text": "排除されたラプターズ："
+					},
+					"Key": "Raptors"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soul Stones Destroyed:"
+					},
+					"Translation":
+					{
+						"Text": "破壊された魂の石："
+					},
+					"Key": "SSDestroyed"
+				},
+				{
+					"Source":
+					{
+						"Text": "Times Caught:"
+					},
+					"Translation":
+					{
+						"Text": "キャッチされた時間："
+					},
+					"Key": "TimesCaught"
+				},
+				{
+					"Source":
+					{
+						"Text": "Times Jailed:"
+					},
+					"Translation":
+					{
+						"Text": "投獄された時間："
+					},
+					"Key": "TimesJailed"
+				},
+				{
+					"Source":
+					{
+						"Text": "To activate night vision press "
+					},
+					"Translation":
+					{
+						"Text": "ナイトビジョンプレスをアクティブにするには"
+					},
+					"Key": "NightVIsionMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "To change your ammo press "
+					},
+					"Translation":
+					{
+						"Text": "弾薬を変更するにはプレス"
+					},
+					"Key": "SpecialAmmoMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can still escape death"
+					},
+					"Translation":
+					{
+						"Text": "あなたはまだ死を免れることができます"
+					},
+					"Key": "EscapeMessage"
+				},
+				{
+					"Source":
+					{
+						"Text": "You got"
+					},
+					"Translation":
+					{
+						"Text": "あなたが得た"
+					},
+					"Key": "KeyGet"
+				},
+				{
+					"Source":
+					{
+						"Text": "You need"
+					},
+					"Translation":
+					{
+						"Text": "あなたが必要です"
+					},
+					"Key": "KeyNeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "You will die when you get caught"
+					},
+					"Translation":
+					{
+						"Text": "捕まると死ぬ"
+					},
+					"Key": "YouWIllDie"
+				},
+				{
+					"Source":
+					{
+						"Text": "times"
+					},
+					"Translation":
+					{
+						"Text": "タイムズ"
+					},
+					"Key": "Times"
+				},
+				{
+					"Source":
+					{
+						"Text": "to break free"
+					},
+					"Translation":
+					{
+						"Text": "自由になる"
+					},
+					"Key": "ToBreakFree"
+				},
+				{
+					"Source":
+					{
+						"Text": "to hold your breath"
+					},
+					"Translation":
+					{
+						"Text": "息を止めて"
+					},
+					"Key": "HoldBreath"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Inputs",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Camera"
+					},
+					"Translation":
+					{
+						"Text": "カメラ"
+					},
+					"Key": "Gamepad(R)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch"
+					},
+					"Translation":
+					{
+						"Text": "しゃがむ"
+					},
+					"Key": "Crouch_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch Desc"
+					},
+					"Translation":
+					{
+						"Text": "しゃがむ説明"
+					},
+					"Key": "Crouch_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Crouch/Swim Down"
+					},
+					"Translation":
+					{
+						"Text": "しゃがむ/泳ぐ"
+					},
+					"Key": "Gamepad(B)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Equip/Unequip Gun"
+					},
+					"Translation":
+					{
+						"Text": "装備/装備解除ガン"
+					},
+					"Key": "EquipGun_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "EquipGun Desc"
+					},
+					"Translation":
+					{
+						"Text": "EquipGun Desc"
+					},
+					"Key": "EquipGun_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flashlight"
+					},
+					"Translation":
+					{
+						"Text": "懐中電灯"
+					},
+					"Key": "Flashight_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Flashlight Desc"
+					},
+					"Translation":
+					{
+						"Text": "懐中電灯の説明"
+					},
+					"Key": "Flashlight_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact"
+					},
+					"Translation":
+					{
+						"Text": "相互作用"
+					},
+					"Key": "Interact_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact Desc"
+					},
+					"Translation":
+					{
+						"Text": "相互作用の説明"
+					},
+					"Key": "Interact_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interact/Swim Up"
+					},
+					"Translation":
+					{
+						"Text": "インタラクション/スイムアップ"
+					},
+					"Key": "Gamepad(A)"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory"
+					},
+					"Translation":
+					{
+						"Text": "在庫"
+					},
+					"Key": "Inventory_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inventory Desc"
+					},
+					"Translation":
+					{
+						"Text": "在庫説明"
+					},
+					"Key": "Inventory_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE BACKWARD"
+					},
+					"Translation":
+					{
+						"Text": "後方に移動"
+					},
+					"Key": "MoveBackward_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE BACKWARD DESC"
+					},
+					"Translation":
+					{
+						"Text": "後方に移動DESC"
+					},
+					"Key": "MoveBackward_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE FORWARD"
+					},
+					"Translation":
+					{
+						"Text": "前進する"
+					},
+					"Key": "MoveForward_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOVE FORWARD DESC"
+					},
+					"Translation":
+					{
+						"Text": "前方に移動"
+					},
+					"Key": "MoveForward_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Left"
+					},
+					"Translation":
+					{
+						"Text": "左に移動"
+					},
+					"Key": "MoveLeft_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Move Right"
+					},
+					"Translation":
+					{
+						"Text": "右に動く"
+					},
+					"Key": "MoveRight_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "MoveLeft Desc"
+					},
+					"Translation":
+					{
+						"Text": "MoveLeft Desc"
+					},
+					"Key": "MoveLeft_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MoveRight Desc"
+					},
+					"Translation":
+					{
+						"Text": "MoveRight Desc"
+					},
+					"Key": "MoveRight_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Night Vision"
+					},
+					"Translation":
+					{
+						"Text": "夜間視力"
+					},
+					"Key": "NightVision"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chat"
+					},
+					"Translation":
+					{
+						"Text": "チャットを開く"
+					},
+					"Key": "OpenChat_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Open Chat Desc"
+					},
+					"Translation":
+					{
+						"Text": "チャットの説明を開く"
+					},
+					"Key": "OpenChat_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause"
+					},
+					"Translation":
+					{
+						"Text": "一時停止"
+					},
+					"Key": "Pause_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pause Desc"
+					},
+					"Translation":
+					{
+						"Text": "説明を一時停止"
+					},
+					"Key": "Pause_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Push To Talk"
+					},
+					"Translation":
+					{
+						"Text": "プッシュツートーク"
+					},
+					"Key": "PushToTalk_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PushToTalk Desc"
+					},
+					"Translation":
+					{
+						"Text": "PushToTalk説明"
+					},
+					"Key": "PushToTalk_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reload"
+					},
+					"Translation":
+					{
+						"Text": "リロード"
+					},
+					"Key": "Reload_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reload Desc"
+					},
+					"Translation":
+					{
+						"Text": "説明をリロード"
+					},
+					"Key": "Reload_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Run"
+					},
+					"Translation":
+					{
+						"Text": "走る"
+					},
+					"Key": "Run_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Run Desc"
+					},
+					"Translation":
+					{
+						"Text": "説明を実行"
+					},
+					"Key": "Run_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shoot"
+					},
+					"Translation":
+					{
+						"Text": "シュート"
+					},
+					"Key": "Shoot_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Shoot Desc"
+					},
+					"Translation":
+					{
+						"Text": "シュート説明"
+					},
+					"Key": "Shoot_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show Chat"
+					},
+					"Translation":
+					{
+						"Text": "チャットを表示"
+					},
+					"Key": "ShowChat_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "ShowChat Desc"
+					},
+					"Translation":
+					{
+						"Text": "ShowChat Desc"
+					},
+					"Key": "ShowChat_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swim Down"
+					},
+					"Translation":
+					{
+						"Text": "スイムダウン"
+					},
+					"Key": "SwimDown_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Swim Up"
+					},
+					"Translation":
+					{
+						"Text": "上る"
+					},
+					"Key": "SwimUp_Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "SwimDown Desc"
+					},
+					"Translation":
+					{
+						"Text": "SwimDown Desc"
+					},
+					"Key": "SwimDown_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "SwimUp Desc"
+					},
+					"Translation":
+					{
+						"Text": "SwimUp Desc"
+					},
+					"Key": "SwimUp_Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Toggle Ammo"
+					},
+					"Translation":
+					{
+						"Text": "トグル弾薬"
+					},
+					"Key": "SpecialAmmo"
+				},
+				{
+					"Source":
+					{
+						"Text": "Walk"
+					},
+					"Translation":
+					{
+						"Text": "歩く"
+					},
+					"Key": "Gamepad(L)"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Inventory",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "A-Block"
+					},
+					"Translation":
+					{
+						"Text": "A-Block"
+					},
+					"Key": "T_Password_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "ADM"
+					},
+					"Translation":
+					{
+						"Text": "ADM"
+					},
+					"Key": "T_Password_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bathroom OBS"
+					},
+					"Translation":
+					{
+						"Text": "バスルームOBS"
+					},
+					"Key": "Key_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "CCU"
+					},
+					"Translation":
+					{
+						"Text": "CCU"
+					},
+					"Key": "T_Password_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Central Control"
+					},
+					"Translation":
+					{
+						"Text": "中央制御"
+					},
+					"Key": "Key_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chief Security"
+					},
+					"Translation":
+					{
+						"Text": "最高セキュリティ"
+					},
+					"Key": "Key_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collected Keys"
+					},
+					"Translation":
+					{
+						"Text": "収集されたキー"
+					},
+					"Key": "T_CollectedKeys"
+				},
+				{
+					"Source":
+					{
+						"Text": "Daisy Ri... --- Paradise Motel --- 90302 Dopezo Str..."
+					},
+					"Translation":
+					{
+						"Text": "Daisy Ri... --- Paradise Motel --- 90302 Dopezo Str..."
+					},
+					"Key": "R_Note_Motel_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Director's Letter"
+					},
+					"Translation":
+					{
+						"Text": "ディレクターズレター"
+					},
+					"Key": "T_Note_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Director's Redemption"
+					},
+					"Translation":
+					{
+						"Text": "ディレクターの償還"
+					},
+					"Key": "T_Note_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Driver license"
+					},
+					"Translation":
+					{
+						"Text": "運転免許証"
+					},
+					"Key": "T_Note_Motel_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Driver license"
+					},
+					"Translation":
+					{
+						"Text": "運転免許証"
+					},
+					"Key": "R_Note_Motel_5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Each spirit has one or more Focus Points with which clairvoyants can interact. A Point of Focus is a three-dimensional structure that has an energetic connection to spirit, and that can be shaped to be used in a way that suits the clairvoyant. Focus Points can be used to communicate, weaken or even banish spirits."
+					},
+					"Translation":
+					{
+						"Text": "各スピリットには、千里眼が相互作用できる1つ以上のフォーカスポイントがあります。ポイントオブフォーカスは、精神とのエネルギー的なつながりを持ち、透視者に適した方法で使用できるように形作ることができる3次元構造です。フォーカスポイントは、精神を伝えたり、弱めたり、追放したりするために使用できます。"
+					},
+					"Key": "R_Note_Motel_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Energy Station"
+					},
+					"Translation":
+					{
+						"Text": "エネルギーステーション"
+					},
+					"Key": "Key_Energy"
+				},
+				{
+					"Source":
+					{
+						"Text": "Focus point"
+					},
+					"Translation":
+					{
+						"Text": "フォーカスポイント"
+					},
+					"Key": "T_Note_Motel_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sees you"
+					},
+					"Translation":
+					{
+						"Text": "彼はあなたに会います"
+					},
+					"Key": "T_Note_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "He sees you\r\nHe hears you\r\nHe wants you"
+					},
+					"Translation":
+					{
+						"Text": "彼はあなたに会います\r\n彼はあなたの言うことを聞きます\r\n彼はあなたを望んでいます"
+					},
+					"Key": "R_Note_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hospital Report"
+					},
+					"Translation":
+					{
+						"Text": "病院レポート"
+					},
+					"Key": "T_Note_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "I owe him everything he set me free. We were being chased by the darkness, but we will finally be guided into the light.\r\n\r\nDIE"
+					},
+					"Translation":
+					{
+						"Text": "私は彼が私を解放したすべてのものを彼に負っている。私たちは闇に追われていましたが、ようやく光に導かれます。\r\n\r\n死ぬ"
+					},
+					"Key": "R_Note_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Infirmary"
+					},
+					"Translation":
+					{
+						"Text": "診療所"
+					},
+					"Key": "Key_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "It all started after the arrival of a prisoner, since then things have gone out of normal. Most prisoners tried to take their own lifes. When I said it could be a supernatural influence, they called me a madman.\r\n\r\nIf you are reading this, I must be somewhere in the prison, putting some wind chimes to keep the evil spirits away from this place, just look for me."
+					},
+					"Translation":
+					{
+						"Text": "それはすべて囚人の到着後に始まりました、それ以来、物事は正常から外れました。ほとんどの囚人は自分の命を奪おうとしました。それが超自然的な影響かもしれないと私が言ったとき、彼らは私を狂人と呼んだ。\r\n\r\nあなたがこれを読んでいるなら、私は刑務所のどこかにいるに違いありません。悪霊をこの場所から遠ざけるために風鈴を置いています。ただ私を探してください。"
+					},
+					"Key": "R_Note_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key"
+					},
+					"Translation":
+					{
+						"Text": "鍵"
+					},
+					"Key": "Key"
+				},
+				{
+					"Source":
+					{
+						"Text": "Map"
+					},
+					"Translation":
+					{
+						"Text": "地図"
+					},
+					"Key": "Button_Map"
+				},
+				{
+					"Source":
+					{
+						"Text": "Notes"
+					},
+					"Translation":
+					{
+						"Text": "ノート"
+					},
+					"Key": "Button_Notes"
+				},
+				{
+					"Source":
+					{
+						"Text": "Now simply wait for the spirit to fulfill its mission. Success is a frequent practice in this system, but in case of failure we have an alternative, giving an ultimatum to the spirit. For this, order him to complete his mission in a certain number of hours under penalty of banning him permanently. Most of the time this will be enough to make him do his duty. However, be careful not to leave any loopholes in your orders, the spirits will not let the opportunity to deceive you pass. A spirit that manages to deceive its summoner is free to do as it pleases."
+					},
+					"Translation":
+					{
+						"Text": "今、単に精神がその使命を果たすのを待ってください。このシステムでは成功が頻繁に行われていますが、失敗した場合は、精神に最後通告を与える代替手段があります。このために、彼を永久に禁止するというペナルティの下で、彼に特定の時間数で彼の任務を完了するように命じてください。ほとんどの場合、これは彼に義務を果たさせるのに十分です。ただし、注文に抜け穴を残さないように注意してください。スピリッツはあなたを欺く機会を逃しません。召喚者を欺くことができた精神は、好きなように自由に行うことができます。"
+					},
+					"Key": "R_Note_Motel_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Passwords and Keys"
+					},
+					"Translation":
+					{
+						"Text": "パスワードとキー"
+					},
+					"Key": "Button_Passwords"
+				},
+				{
+					"Source":
+					{
+						"Text": "Read"
+					},
+					"Translation":
+					{
+						"Text": "読んだ"
+					},
+					"Key": "Button_Read"
+				},
+				{
+					"Source":
+					{
+						"Text": "Records"
+					},
+					"Translation":
+					{
+						"Text": "記録"
+					},
+					"Key": "Key_3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ripped note"
+					},
+					"Translation":
+					{
+						"Text": "破れたメモ"
+					},
+					"Key": "T_Note_Motel_4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summoners's caution"
+					},
+					"Translation":
+					{
+						"Text": "召喚者の注意"
+					},
+					"Key": "T_Note_Motel_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Summoning of a spirit"
+					},
+					"Translation":
+					{
+						"Text": "精霊の召喚"
+					},
+					"Key": "T_Note_Motel_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The commands for the conjured spirit must necessarily be expressed in the adept's own words. Orders to the spirit must be clear, and perhaps some restrictions must be imposed, such as not hurting friends and family, and perhaps a deadline for your requests to be carried out. There are basically three ways to bargain with a spirit. Asking, threatening or rewarding him. Most of the time the spirit can accept or deny your request and demand nothing in return. Some of them, however, seem to have a tendency towards negotiation and some towards cheating."
+					},
+					"Translation":
+					{
+						"Text": "召喚された精神のための命令は、必然的に熟練者自身の言葉で表現されなければなりません。精神への命令は明確でなければならず、おそらく友人や家族を傷つけないように、そしておそらくあなたの要求が実行される期限など、いくつかの制限を課す必要があります。精神と交渉する方法は基本的に3つあります。彼に尋ねたり、脅したり、報酬を与えたりします。ほとんどの場合、精神はあなたの要求を受け入れるか拒否し、見返りに何も要求することができません。しかし、それらのいくつかは交渉の傾向があり、いくつかは不正行為の傾向があるようです。"
+					},
+					"Key": "R_Note_Motel_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "The victims reported hearing voices in their heads and talked about seeing a figure similar to a bipedal goat. After a while, some patients reported that the voices were gone. All patients who were in the prison infirmary were transferred."
+					},
+					"Translation":
+					{
+						"Text": "犠牲者は頭の中で幻聴をしたと報告し、二足歩行のヤギに似た姿を見たと話しました。しばらくして、何人かの患者は声がなくなったと報告しました。刑務所の診療所にいたすべての患者が移送された。"
+					},
+					"Key": "R_Note_3"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Menu",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "APPLY"
+					},
+					"Translation":
+					{
+						"Text": "申し込み"
+					},
+					"Key": "Button_Apply"
+				},
+				{
+					"Source":
+					{
+						"Text": "BACK"
+					},
+					"Translation":
+					{
+						"Text": "戻る"
+					},
+					"Key": "Button_Back"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back to Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "メインメニューに戻る"
+					},
+					"Key": "T_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Back to Menu"
+					},
+					"Translation":
+					{
+						"Text": "メニューに戻る"
+					},
+					"Key": "Button_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Continue"
+					},
+					"Translation":
+					{
+						"Text": "継続する"
+					},
+					"Key": "B_Continue"
+				},
+				{
+					"Source":
+					{
+						"Text": "Defeat"
+					},
+					"Translation":
+					{
+						"Text": "敗北"
+					},
+					"Key": "T_Defeat"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really want to go back to the menu?"
+					},
+					"Translation":
+					{
+						"Text": "本当にメニューに戻りたいですか？"
+					},
+					"Key": "Q_BackToMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you really want to quit the game?"
+					},
+					"Translation":
+					{
+						"Text": "あなたは本当にゲームをやめたいですか？"
+					},
+					"Key": "Q_Quit"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed to Join"
+					},
+					"Translation":
+					{
+						"Text": "参加できませんでした"
+					},
+					"Key": "Error_FailJoin"
+				},
+				{
+					"Source":
+					{
+						"Text": "Failed to create"
+					},
+					"Translation":
+					{
+						"Text": "作成に失敗しました"
+					},
+					"Key": "Error_FailedCreate"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold"
+					},
+					"Translation":
+					{
+						"Text": "所有"
+					},
+					"Key": "HoldKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick"
+					},
+					"Translation":
+					{
+						"Text": "キック"
+					},
+					"Key": "B_Kick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Level"
+					},
+					"Translation":
+					{
+						"Text": "レベル"
+					},
+					"Key": "T_Level"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Menu"
+					},
+					"Translation":
+					{
+						"Text": "メインメニュー"
+					},
+					"Key": "T_MainMenu"
+				},
+				{
+					"Source":
+					{
+						"Text": "Multiplayer"
+					},
+					"Translation":
+					{
+						"Text": "マルチプレイヤー"
+					},
+					"Key": "Multiplayer"
+				},
+				{
+					"Source":
+					{
+						"Text": "NO"
+					},
+					"Translation":
+					{
+						"Text": "番号"
+					},
+					"Key": "Option_No"
+				},
+				{
+					"Source":
+					{
+						"Text": "NONE"
+					},
+					"Translation":
+					{
+						"Text": "なし"
+					},
+					"Key": "Option_None"
+				},
+				{
+					"Source":
+					{
+						"Text": "OFF"
+					},
+					"Translation":
+					{
+						"Text": "オフ"
+					},
+					"Key": "Option_Off"
+				},
+				{
+					"Source":
+					{
+						"Text": "ON"
+					},
+					"Translation":
+					{
+						"Text": "オン"
+					},
+					"Key": "Option_On"
+				},
+				{
+					"Source":
+					{
+						"Text": "Options"
+					},
+					"Translation":
+					{
+						"Text": "オプション"
+					},
+					"Key": "Options"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quit"
+					},
+					"Translation":
+					{
+						"Text": "終了する"
+					},
+					"Key": "Quit"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESTORE TO DEFAULT"
+					},
+					"Translation":
+					{
+						"Text": "デフォルトに戻す"
+					},
+					"Key": "Button_Reset"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ready"
+					},
+					"Translation":
+					{
+						"Text": "準備"
+					},
+					"Key": "Button_Ready"
+				},
+				{
+					"Source":
+					{
+						"Text": "Return"
+					},
+					"Translation":
+					{
+						"Text": "戻る"
+					},
+					"Key": "Button_Return"
+				},
+				{
+					"Source":
+					{
+						"Text": "SAVE"
+					},
+					"Translation":
+					{
+						"Text": "保存する"
+					},
+					"Key": "Button_Save"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show Tips"
+					},
+					"Translation":
+					{
+						"Text": "ヒントを表示"
+					},
+					"Key": "B_Tips"
+				},
+				{
+					"Source":
+					{
+						"Text": "Singleplayer"
+					},
+					"Translation":
+					{
+						"Text": "シングルプレーヤー"
+					},
+					"Key": "Singleplayer"
+				},
+				{
+					"Source":
+					{
+						"Text": "Start"
+					},
+					"Translation":
+					{
+						"Text": "始める"
+					},
+					"Key": "Button_Start"
+				},
+				{
+					"Source":
+					{
+						"Text": "Victory"
+					},
+					"Translation":
+					{
+						"Text": "勝利"
+					},
+					"Key": "T_Victory"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP"
+					},
+					"Translation":
+					{
+						"Text": "XP"
+					},
+					"Key": "T_XP"
+				},
+				{
+					"Source":
+					{
+						"Text": "XP needed to next level"
+					},
+					"Translation":
+					{
+						"Text": "XPは次のレベルに必要"
+					},
+					"Key": "T_XpNeeded"
+				},
+				{
+					"Source":
+					{
+						"Text": "YES"
+					},
+					"Translation":
+					{
+						"Text": "はい"
+					},
+					"Key": "Option_Yes"
+				},
+				{
+					"Source":
+					{
+						"Text": "You gained"
+					},
+					"Translation":
+					{
+						"Text": "あなたが得た"
+					},
+					"Key": "T_YouGained"
+				},
+				{
+					"Source":
+					{
+						"Text": "to skip"
+					},
+					"Translation":
+					{
+						"Text": "スキップする"
+					},
+					"Key": "ToSkip"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Menus",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ADVANCED GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "高度なグラフィックス"
+					},
+					"Key": "Graphis_Topic_Advanced"
+				},
+				{
+					"Source":
+					{
+						"Text": "AMBIENT OCCLUSION"
+					},
+					"Translation":
+					{
+						"Text": "アンビエントオクルージョン"
+					},
+					"Key": "Graphics_AO"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANISOTROPIC FILTERING"
+					},
+					"Translation":
+					{
+						"Text": "異方性フィルタリング"
+					},
+					"Key": "Graphics_Anisotropic"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANTI ALIASING METHOD"
+					},
+					"Translation":
+					{
+						"Text": "アンチエイリアシング方法"
+					},
+					"Key": "Graphics_AAMethod"
+				},
+				{
+					"Source":
+					{
+						"Text": "ANTI ALIASING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "アンチエイリアス品質"
+					},
+					"Key": "Graphics_AAQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "APPLY CHANGES?"
+					},
+					"Translation":
+					{
+						"Text": "変更を適用しますか？"
+					},
+					"Key": "Decision_Text"
+				},
+				{
+					"Source":
+					{
+						"Text": "AUTO"
+					},
+					"Translation":
+					{
+						"Text": "自動"
+					},
+					"Key": "Settings_Auto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust quality of global illumination such as indirect light from the sky."
+					},
+					"Translation":
+					{
+						"Text": "空からの間接光などのグローバルイルミネーションの品質を調整します。"
+					},
+					"Key": "D_GlobalIllumination"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust resolution and shading quality of fog, clouds and other volumetrics effects."
+					},
+					"Translation":
+					{
+						"Text": "霧、雲、その他のボリューム効果の解像度とシェーディング品質を調整します。"
+					},
+					"Key": "D_Volumetrics"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust resolution of reflections on rough and glossy surfaces."
+					},
+					"Translation":
+					{
+						"Text": "粗くて光沢のある表面での反射の解像度を調整します。"
+					},
+					"Key": "D_Reflection"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust texture quality. This change the level of detail observable on objects, buildings and the environment."
+					},
+					"Translation":
+					{
+						"Text": "テクスチャ品質を調整します。これにより、オブジェクト、建物、および環境で観察できる詳細レベルが変更されます。"
+					},
+					"Key": "D_TextureQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the Anti-Aliasing quality."
+					},
+					"Translation":
+					{
+						"Text": "アンチエイリアシングの品質を調整します。"
+					},
+					"Key": "D_AAQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the draw distance of grass. Higher settings enable grass shadows."
+					},
+					"Translation":
+					{
+						"Text": "草の描画距離を調整します。設定を高くすると、草の影が有効になります。"
+					},
+					"Key": "D_Vegetation"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the level of detail of shadows in the distance."
+					},
+					"Translation":
+					{
+						"Text": "遠くの影の詳細レベルを調整します。"
+					},
+					"Key": "D_FarShadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the light quality of the sun, moon and local lights."
+					},
+					"Translation":
+					{
+						"Text": "太陽、月、ローカルライトの光の質を調整します。"
+					},
+					"Key": "D_LightingQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality and the amount of features in the Post Processing."
+					},
+					"Translation":
+					{
+						"Text": "後処理で機能の品質と量を調整します。"
+					},
+					"Key": "D_PPQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality of ambient shadows where two surfaces meet."
+					},
+					"Translation":
+					{
+						"Text": "2つのサーフェスが交わるアンビエントシャドウの品質を調整します。"
+					},
+					"Key": "D_SSAO"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quality of water refraction, reflection and physics.\r\n\r\nExperienced users can further customize water quality settings in the Advanced section."
+					},
+					"Translation":
+					{
+						"Text": "水の屈折、反射、物理の質を調整します。\r\n\r\n経験豊富なユーザーは、[詳細]セクションで水質設定をさらにカスタマイズできます。"
+					},
+					"Key": "D_WaterQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the quantity and quality of particle effects."
+					},
+					"Translation":
+					{
+						"Text": "パーティクルエフェクトの量と質を調整します。"
+					},
+					"Key": "D_Effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjust the shadow quality of the sun, moon and local lights."
+					},
+					"Translation":
+					{
+						"Text": "太陽、月、ローカルライトの影の質を調整します。"
+					},
+					"Key": "D_ShadowQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts internal resolution by forcing the game to render at a certain level and then scale to your Resolution setting. This can improve image quality.\r\n\r\nIncreasing this will not increase the resolution the game is displayed at."
+					},
+					"Translation":
+					{
+						"Text": "ゲームを特定のレベルでレンダリングしてから、解像度設定に合わせて拡大縮小することにより、内部解像度を調整します。これにより、画質を向上させることができます。\r\n\r\nこれを増やしても、ゲームが表示される解像度は上がりません。"
+					},
+					"Key": "D_ResolutionScale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the Anti-Aliasing method:\r\n\r\nTemporal Anti-Aliasing (TAA) improves image quality by reusing previous frames. This helps to reduce object edges appearing jagged or unexpectedly sharp;\r\n\r\nFast Approximate Anti-Aliasing (FXAA) reduce object edges appearing jagged or unexpectedly sharp."
+					},
+					"Translation":
+					{
+						"Text": "アンチエイリアシング方法を調整します。\r\n\r\n時間的アンチエイリアシング（TAA）は、前のフレームを再利用することで画質を向上させます。これは、ギザギザまたは予想外にシャープに見えるオブジェクトのエッジを減らすのに役立ちます。\r\n\r\n高速近似アンチエイリアシング（FXAA）は、ギザギザまたは予想外にシャープに見えるオブジェクトのエッジを減らします。"
+					},
+					"Key": "D_AAMethod"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the amount of objects displayed on the screen according to the distance from the main camera."
+					},
+					"Translation":
+					{
+						"Text": "メインカメラからの距離に応じて、画面に表示されるオブジェクトの量を調整します。"
+					},
+					"Key": "D_ViewDistance"
+				},
+				{
+					"Source":
+					{
+						"Text": "Adjusts the draw distance of detailed objects such as lamps, weapons and decorations."
+					},
+					"Translation":
+					{
+						"Text": "ランプ、武器、装飾などの詳細なオブジェクトの描画距離を調整します。"
+					},
+					"Key": "D_GeometryQuality"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alters the appearance of objects on the surface of Materials."
+					},
+					"Translation":
+					{
+						"Text": "マテリアルの表面上のオブジェクトの外観を変更します。"
+					},
+					"Key": "D_SSR"
+				},
+				{
+					"Source":
+					{
+						"Text": "Applies blur on objects in motion relative to the camera."
+					},
+					"Translation":
+					{
+						"Text": "カメラに対して動いているオブジェクトにぼかしを適用します。"
+					},
+					"Key": "D_MotionBlur"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALANCED"
+					},
+					"Translation":
+					{
+						"Text": "バランス"
+					},
+					"Key": "Settings_Balanced"
+				},
+				{
+					"Source":
+					{
+						"Text": "BALANCED"
+					},
+					"Translation":
+					{
+						"Text": "バランス"
+					},
+					"Key": "Graphics_Preset_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "BASIC GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "基本的なグラフィックス"
+					},
+					"Key": "Graphics_Topic_Basic"
+				},
+				{
+					"Source":
+					{
+						"Text": "BEAUTIFUL"
+					},
+					"Translation":
+					{
+						"Text": "綺麗な"
+					},
+					"Key": "Graphics_Preset_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "BLOOM"
+					},
+					"Translation":
+					{
+						"Text": "咲く"
+					},
+					"Key": "Graphics_Bloom"
+				},
+				{
+					"Source":
+					{
+						"Text": "BRIGHTNESS CALIBRATION"
+					},
+					"Translation":
+					{
+						"Text": "明るさのキャリブレーション"
+					},
+					"Key": "Graphics_Brigthness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bloom is a real world light phenomenon that can greatly add to the perceived realism of a rendered image at a moderate render performance cost."
+					},
+					"Translation":
+					{
+						"Text": "ブルームは現実世界の光の現象であり、適度なレンダリングパフォーマンスコストでレンダリングされたイメージの知覚されるリアリズムを大幅に向上させることができます。"
+					},
+					"Key": "D_Bloom"
+				},
+				{
+					"Source":
+					{
+						"Text": "CHROMATIC ABERRATION"
+					},
+					"Translation":
+					{
+						"Text": "色収差"
+					},
+					"Key": "Graphics_Chromatic"
+				},
+				{
+					"Source":
+					{
+						"Text": "CUSTOM"
+					},
+					"Translation":
+					{
+						"Text": "習慣"
+					},
+					"Key": "Graphics_Preset_Custom"
+				},
+				{
+					"Source":
+					{
+						"Text": "Calibrate your screen to adjust the Brightness that the game will display at."
+					},
+					"Translation":
+					{
+						"Text": "画面を調整して、ゲームが表示される明るさを調整します。"
+					},
+					"Key": "D_Brightness"
+				},
+				{
+					"Source":
+					{
+						"Text": "Choose which default graphics API the game should use."
+					},
+					"Translation":
+					{
+						"Text": "ゲームで使用するデフォルトのグラフィックAPIを選択します。"
+					},
+					"Key": "D_API"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIRECTX12"
+					},
+					"Translation":
+					{
+						"Text": "DIRECTX12"
+					},
+					"Key": "API_DX12"
+				},
+				{
+					"Source":
+					{
+						"Text": "DLSS"
+					},
+					"Translation":
+					{
+						"Text": "DLSS"
+					},
+					"Key": "Graphics_DLSS"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable technique that simulates the scattering of light when viewing bright objects due to imperfections in camera lenses."
+					},
+					"Translation":
+					{
+						"Text": "カメラレンズの欠陥による明るいオブジェクトを表示するときの光の散乱をシミュレートする手法を無効または有効にします。"
+					},
+					"Key": "D_LensFlare"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable the volumetric cloud on the sky."
+					},
+					"Translation":
+					{
+						"Text": "空の体積雲を無効または有効にします。"
+					},
+					"Key": "D_VolumetricCloud"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable or enable the volumetric fog on the environment."
+					},
+					"Translation":
+					{
+						"Text": "環境のボリュームフォグを無効または有効にします。"
+					},
+					"Key": "D_VolumetricFog"
+				},
+				{
+					"Source":
+					{
+						"Text": "EFFECTS QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "効果の品質"
+					},
+					"Key": "Graphics_Effects"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effect that approximates the attenuation of light due to occlusion. This is generally best used as a subtle effect, in addition to standard global illumination, that darkens corners, crevices, or other features to create a more natural, realistic look."
+					},
+					"Translation":
+					{
+						"Text": "オクルージョンによる光の減衰を近似する効果。これは通常、標準のグローバルイルミネーションに加えて、コーナー、隙間、またはその他の機能を暗くして、より自然でリアルな外観を作成する微妙な効果として使用するのが最適です。"
+					},
+					"Key": "D_AmbientOcclusion"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable DirectX Raytracing (DXR) for life-like Reflections."
+					},
+					"Translation":
+					{
+						"Text": "リアルな反射に対してDirectXレイトレーシング（DXR）を有効にします。"
+					},
+					"Key": "RT_D_Reflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enable DirectX Raytracing (DXR) for life-like Shadows."
+					},
+					"Translation":
+					{
+						"Text": "本物そっくりのシャドウに対してDirectXレイトレーシング（DXR）を有効にします。"
+					},
+					"Key": "RT_D_Shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "FAR SHADOW QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "遠い影の品質"
+					},
+					"Key": "Graphics_FarShadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "FIELD OF VIEW"
+					},
+					"Translation":
+					{
+						"Text": "視野"
+					},
+					"Key": "Graphics_FieldOfView"
+				},
+				{
+					"Source":
+					{
+						"Text": "FOLIAGE QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "葉の品質"
+					},
+					"Key": "Graphics_Foliage"
+				},
+				{
+					"Source":
+					{
+						"Text": "FXAA"
+					},
+					"Translation":
+					{
+						"Text": "FXAA"
+					},
+					"Key": "AA_FXAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "FXAA QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "FXAA品質"
+					},
+					"Key": "Graphics_FXAA_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "GEOMETRY QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "幾何学的品質"
+					},
+					"Key": "Graphics_Geometry"
+				},
+				{
+					"Source":
+					{
+						"Text": "GLOBAL ILLUMINATION"
+					},
+					"Translation":
+					{
+						"Text": "グローバルイルミネーション"
+					},
+					"Key": "Graphics_GlobalIllumination"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "グラフィックス"
+					},
+					"Key": "Decision_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS"
+					},
+					"Translation":
+					{
+						"Text": "グラフィックス"
+					},
+					"Key": "Graphics_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHICS API"
+					},
+					"Translation":
+					{
+						"Text": "グラフィックAPI"
+					},
+					"Key": "Graphics_API"
+				},
+				{
+					"Source":
+					{
+						"Text": "Globally adjusts graphics quality presets based on your hardware capabilities."
+					},
+					"Translation":
+					{
+						"Text": "ハードウェア機能に基づいて、グラフィック品質のプリセットをグローバルに調整します。"
+					},
+					"Key": "D_QualityPreset"
+				},
+				{
+					"Source":
+					{
+						"Text": "HIGH"
+					},
+					"Translation":
+					{
+						"Text": "高い"
+					},
+					"Key": "Settings_High"
+				},
+				{
+					"Source":
+					{
+						"Text": "Higher values help maintain texture quality when being observed from a grazing angle, not face on to the camera."
+					},
+					"Translation":
+					{
+						"Text": "値を大きくすると、カメラに向かってではなく、かすめ角から観察したときにテクスチャ品質を維持するのに役立ちます。"
+					},
+					"Key": "D_Anisotropic"
+				},
+				{
+					"Source":
+					{
+						"Text": "LENS FLARE"
+					},
+					"Translation":
+					{
+						"Text": "レンズフレア"
+					},
+					"Key": "Graphics_LensFlare"
+				},
+				{
+					"Source":
+					{
+						"Text": "LIGHTING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "照明品質"
+					},
+					"Key": "Graphics_Lighting"
+				},
+				{
+					"Source":
+					{
+						"Text": "LOW"
+					},
+					"Translation":
+					{
+						"Text": "低い"
+					},
+					"Key": "Setting_Low"
+				},
+				{
+					"Source":
+					{
+						"Text": "MATERIAL QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "材料の品質"
+					},
+					"Key": "Graphics_Material"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEDIUM"
+					},
+					"Translation":
+					{
+						"Text": "中くらい"
+					},
+					"Key": "Settings_Medium"
+				},
+				{
+					"Source":
+					{
+						"Text": "MOTION BLUR"
+					},
+					"Translation":
+					{
+						"Text": "モーションブラー"
+					},
+					"Key": "Graphics_MotionBlur"
+				},
+				{
+					"Source":
+					{
+						"Text": "MSAA"
+					},
+					"Translation":
+					{
+						"Text": "MSAA"
+					},
+					"Key": "AA_MSAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "パフォーマンス"
+					},
+					"Key": "Settings_Performance"
+				},
+				{
+					"Source":
+					{
+						"Text": "PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "パフォーマンス"
+					},
+					"Key": "Graphics_Preset_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "POST PROCESSING QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "後処理品質"
+					},
+					"Key": "Graphics_PostProcess"
+				},
+				{
+					"Source":
+					{
+						"Text": "QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "品質"
+					},
+					"Key": "Settings_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "QUALITY PRESET LEVEL"
+					},
+					"Translation":
+					{
+						"Text": "品質プリセットレベル"
+					},
+					"Key": "Graphics_Preset"
+				},
+				{
+					"Source":
+					{
+						"Text": "RAY TRACING"
+					},
+					"Translation":
+					{
+						"Text": "レイトレーシング"
+					},
+					"Key": "RayTracing"
+				},
+				{
+					"Source":
+					{
+						"Text": "REFLECTION QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "反射品質"
+					},
+					"Key": "Graphics_Reflection"
+				},
+				{
+					"Source":
+					{
+						"Text": "RESOLUTION SCALE"
+					},
+					"Translation":
+					{
+						"Text": "解像度スケール"
+					},
+					"Key": "Graphics_ResolutionScale"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Traced Reflections"
+					},
+					"Translation":
+					{
+						"Text": "レイトレーシング反射"
+					},
+					"Key": "RT_Reflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Traced Shadows"
+					},
+					"Translation":
+					{
+						"Text": "レイトレーシングシャドウ"
+					},
+					"Key": "RT_Shadows"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ray Tracing General"
+					},
+					"Translation":
+					{
+						"Text": "レイトレーシング全般"
+					},
+					"Key": "RT_General"
+				},
+				{
+					"Source":
+					{
+						"Text": "Reduce or amplify the quality of the objects materials such as weapons, bullets and walls."
+					},
+					"Translation":
+					{
+						"Text": "武器、弾丸、壁などのオブジェクトマテリアルの品質を低下または増幅します。"
+					},
+					"Key": "D_Material"
+				},
+				{
+					"Source":
+					{
+						"Text": "SCREEN SPACE AMBIENT OCCLUSION"
+					},
+					"Translation":
+					{
+						"Text": "スクリーンスペースアンビエントオクルージョン"
+					},
+					"Key": "Graphics_ScreenAO"
+				},
+				{
+					"Source":
+					{
+						"Text": "SCREEN SPACE REFLECTIONS"
+					},
+					"Translation":
+					{
+						"Text": "画面空間の反射"
+					},
+					"Key": "Graphics_ScreenReflections"
+				},
+				{
+					"Source":
+					{
+						"Text": "SHADOW QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "影の品質"
+					},
+					"Key": "Graphics_Shadow"
+				},
+				{
+					"Source":
+					{
+						"Text": "TAA"
+					},
+					"Translation":
+					{
+						"Text": "TAA"
+					},
+					"Key": "AA_TAA"
+				},
+				{
+					"Source":
+					{
+						"Text": "TAA QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "TAAの品質"
+					},
+					"Key": "Graphics_TAA_Quality"
+				},
+				{
+					"Source":
+					{
+						"Text": "TEXTURE QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "テクスチャ品質"
+					},
+					"Key": "Graphics_Texture"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA"
+					},
+					"Translation":
+					{
+						"Text": "ウルトラ"
+					},
+					"Key": "Settings_Ultra"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA LOW"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Settings_UltraLow"
+				},
+				{
+					"Source":
+					{
+						"Text": "ULTRA PERFORMANCE"
+					},
+					"Translation":
+					{
+						"Text": "ウルトラパフォーマンス"
+					},
+					"Key": "Settings_UltraPerformance"
+				},
+				{
+					"Source":
+					{
+						"Text": "VIEW DISTANCE"
+					},
+					"Translation":
+					{
+						"Text": "距離を見る"
+					},
+					"Key": "Graphics_ViewDistance"
+				},
+				{
+					"Source":
+					{
+						"Text": "VOLUMETRICS QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "容積測定の品質"
+					},
+					"Key": "Graphics_Volumetrics"
+				},
+				{
+					"Source":
+					{
+						"Text": "VULKAN"
+					},
+					"Translation":
+					{
+						"Text": "火山"
+					},
+					"Key": "API_Vulkan"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Cloud"
+					},
+					"Translation":
+					{
+						"Text": "ボリュームクラウド"
+					},
+					"Key": "Graphics_VolumetricCloud"
+				},
+				{
+					"Source":
+					{
+						"Text": "Volumetric Fog"
+					},
+					"Translation":
+					{
+						"Text": "体積霧"
+					},
+					"Key": "Graphics_VolumetricFog"
+				},
+				{
+					"Source":
+					{
+						"Text": "WATER QUALITY"
+					},
+					"Translation":
+					{
+						"Text": "水質"
+					},
+					"Key": "Graphics_Water"
+				},
+				{
+					"Source":
+					{
+						"Text": "You can not use Ray Tracing because your hardware configuration don't meet the requirements or your API is not Directx12."
+					},
+					"Translation":
+					{
+						"Text": "ハードウェア構成が要件を満たしていないか、APIがDirectx12でないため、レイトレーシングを使用できません。"
+					},
+					"Key": "RayTracingWarn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your chosen graphics settings are currently using more memory than you system has available. Please reduce your memory usage."
+					},
+					"Translation":
+					{
+						"Text": "選択したグラフィック設定は、現在、システムで使用可能なメモリよりも多くのメモリを使用しています。メモリ使用量を減らしてください。"
+					},
+					"Key": "WarnVRAM"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Motel",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Room 100"
+					},
+					"Translation":
+					{
+						"Text": "100号室"
+					},
+					"Key": "room100"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 105"
+					},
+					"Translation":
+					{
+						"Text": "105号室"
+					},
+					"Key": "room105"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 204"
+					},
+					"Translation":
+					{
+						"Text": "204号室"
+					},
+					"Key": "room204"
+				},
+				{
+					"Source":
+					{
+						"Text": "Room 208"
+					},
+					"Translation":
+					{
+						"Text": "208号室"
+					},
+					"Key": "room208"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_MultiplayerMenu",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Ammo Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "弾薬乗数"
+					},
+					"Key": "CD_AmmoMultiplier"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ammo Spawn Time Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "弾薬スポーン時間乗数"
+					},
+					"Key": "CD_AmmoSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "Boss Speed Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "ボススピード乗数"
+					},
+					"Key": "CD_BossSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "CREATE"
+					},
+					"Translation":
+					{
+						"Text": "作成"
+					},
+					"Key": "Button_Create"
+				},
+				{
+					"Source":
+					{
+						"Text": "CREATE A SESSION"
+					},
+					"Translation":
+					{
+						"Text": "セッションを作成する"
+					},
+					"Key": "Create_Title"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chances to Escape"
+					},
+					"Translation":
+					{
+						"Text": "逃げるチャンス"
+					},
+					"Key": "CD_Chances"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom DIfficulty"
+					},
+					"Translation":
+					{
+						"Text": "カスタム難易度"
+					},
+					"Key": "CD_TItle"
+				},
+				{
+					"Source":
+					{
+						"Text": "DIFFICULTY"
+					},
+					"Translation":
+					{
+						"Text": "困難"
+					},
+					"Key": "Create_Difficulty"
+				},
+				{
+					"Source":
+					{
+						"Text": "Damage Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "ダメージ乗数"
+					},
+					"Key": "CD_Damage"
+				},
+				{
+					"Source":
+					{
+						"Text": "Detected a session to reconnect"
+					},
+					"Translation":
+					{
+						"Text": "再接続するセッションを検出しました"
+					},
+					"Key": "T_Reconnect"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disable Enemies"
+					},
+					"Translation":
+					{
+						"Text": "敵を無効にする"
+					},
+					"Key": "CD_DisableEnemies"
+				},
+				{
+					"Source":
+					{
+						"Text": "Do you want to reconnect to the last session?"
+					},
+					"Translation":
+					{
+						"Text": "最後のセッションに再接続しますか？"
+					},
+					"Key": "Q_Reconnect"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enemies Spawn Time Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "敵のスポーン時間乗数"
+					},
+					"Key": "CD_EnemiesSpawn"
+				},
+				{
+					"Source":
+					{
+						"Text": "HARD"
+					},
+					"Translation":
+					{
+						"Text": "難しい"
+					},
+					"Key": "Difficulty_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "HOST NAME"
+					},
+					"Translation":
+					{
+						"Text": "ホスト名"
+					},
+					"Key": "HostName"
+				},
+				{
+					"Source":
+					{
+						"Text": "INSANE"
+					},
+					"Translation":
+					{
+						"Text": "非常識"
+					},
+					"Key": "Difficulty_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "INVITE ONLY"
+					},
+					"Translation":
+					{
+						"Text": "招待のみ"
+					},
+					"Key": "Create_InviteOnly"
+				},
+				{
+					"Source":
+					{
+						"Text": "Invite"
+					},
+					"Translation":
+					{
+						"Text": "招待"
+					},
+					"Key": "Button_Invite"
+				},
+				{
+					"Source":
+					{
+						"Text": "JOIN"
+					},
+					"Translation":
+					{
+						"Text": "加入"
+					},
+					"Key": "Button_Join"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kick Player"
+					},
+					"Translation":
+					{
+						"Text": "キックプレーヤー"
+					},
+					"Key": "T_Kick"
+				},
+				{
+					"Source":
+					{
+						"Text": "Kicked from session"
+					},
+					"Translation":
+					{
+						"Text": "セッションからキック"
+					},
+					"Key": "T_Kicked"
+				},
+				{
+					"Source":
+					{
+						"Text": "MINIMUM OF 4 CHARACTERS"
+					},
+					"Translation":
+					{
+						"Text": "最小4文字"
+					},
+					"Key": "Create_MinimumCharacters"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mary can be invunerable"
+					},
+					"Translation":
+					{
+						"Text": "メアリーは無敵になることができます"
+					},
+					"Key": "CD_MaryInvunerable"
+				},
+				{
+					"Source":
+					{
+						"Text": "NORMAL"
+					},
+					"Translation":
+					{
+						"Text": "正常"
+					},
+					"Key": "Difficulty_0"
+				},
+				{
+					"Source":
+					{
+						"Text": "PASSWORD"
+					},
+					"Translation":
+					{
+						"Text": "パスワード"
+					},
+					"Key": "Create_Password"
+				},
+				{
+					"Source":
+					{
+						"Text": "PLAYERS"
+					},
+					"Translation":
+					{
+						"Text": "プレイヤー"
+					},
+					"Key": "Create_Players"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Speed Multiplier"
+					},
+					"Translation":
+					{
+						"Text": "プレイヤースピード乗数"
+					},
+					"Key": "CD_PlayerSpeed"
+				},
+				{
+					"Source":
+					{
+						"Text": "REFRESH"
+					},
+					"Translation":
+					{
+						"Text": "リフレッシュ"
+					},
+					"Key": "Refresh"
+				},
+				{
+					"Source":
+					{
+						"Text": "SEARCHING"
+					},
+					"Translation":
+					{
+						"Text": "検索"
+					},
+					"Key": "Searching"
+				},
+				{
+					"Source":
+					{
+						"Text": "SERVER NAME"
+					},
+					"Translation":
+					{
+						"Text": "サーバーの名前"
+					},
+					"Key": "Create_ServerName"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Motel"
+					},
+					"Translation":
+					{
+						"Text": "モーテル"
+					},
+					"Key": "Map_Motel"
+				},
+				{
+					"Source":
+					{
+						"Text": "The Prison"
+					},
+					"Translation":
+					{
+						"Text": "刑務所"
+					},
+					"Key": "Map_Prison"
+				},
+				{
+					"Source":
+					{
+						"Text": "USE PASSWORD"
+					},
+					"Translation":
+					{
+						"Text": "パスワードを使用する"
+					},
+					"Key": "Create_UsePassword"
+				},
+				{
+					"Source":
+					{
+						"Text": "You have been kicked!"
+					},
+					"Translation":
+					{
+						"Text": "あなたは蹴られました！"
+					},
+					"Key": "T_KickedMessage"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Subtitle",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Find Barkannan’s spiritual bonfire and destroy the Soulstones."
+					},
+					"Translation":
+					{
+						"Text": "バルカンナンの精神的な焚き火を見つけて、ソウルストーンを破壊してください。"
+					},
+					"Key": "FindBonfire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold your breath, the hydraulic system has been damaged. Go up and find another switch."
+					},
+					"Translation":
+					{
+						"Text": "息を止めてください。油圧システムが損傷しています。上がって別のスイッチを見つけてください。"
+					},
+					"Key": "HoldYourBreath"
+				},
+				{
+					"Source":
+					{
+						"Text": "There’s no energy, find a way to restore."
+					},
+					"Translation":
+					{
+						"Text": "エネルギーはありません。回復する方法を見つけてください。"
+					},
+					"Key": "NoEnergy"
+				}
+			]
+		},
+		{
+			"Namespace": "ST_Tutorial",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Barkannan is hunting, shoot to stop him!"
+					},
+					"Translation":
+					{
+						"Text": "バルカンナンは狩りをしている、彼を止めるために撃つ！"
+					},
+					"Key": "BarkHuntTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Barkannan is not hunting now. Save your ammo."
+					},
+					"Translation":
+					{
+						"Text": "バルカンナンは現在狩猟をしていません。弾薬を保存します。"
+					},
+					"Key": "BarkCalm"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect ammo boxes to always have a way to defend yourself."
+					},
+					"Translation":
+					{
+						"Text": "弾薬箱を集めて、常に身を守る方法を手に入れましょう。"
+					},
+					"Key": "AmmoTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collect keys to open the locked doors. To see the keys that you haven't collected press"
+					},
+					"Translation":
+					{
+						"Text": "鍵を集めて鍵のかかったドアを開けてください。収集していないキーを表示するには、を押します"
+					},
+					"Key": "KeyTutorial"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't approach Raptors. They have a red spiritual light in their bodies."
+					},
+					"Translation":
+					{
+						"Text": "ラプターズに近づかないでください。彼らは彼らの体に赤い精神的な光を持っています。"
+					},
+					"Key": "RaptorTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Don't forget the key and go up."
+					},
+					"Translation":
+					{
+						"Text": "キーを忘れずに上がってください。"
+					},
+					"Key": "DontForgetKey"
+				},
+				{
+					"Source":
+					{
+						"Text": "Eliminate the Obsessors. They have a purple spiritual light in their bodies."
+					},
+					"Translation":
+					{
+						"Text": "強迫観念を排除します。彼らは彼らの体に紫色の精神的な光を持っています。"
+					},
+					"Key": "ObssessorTuto"
+				},
+				{
+					"Source":
+					{
+						"Text": "Go to the cells and hold"
+					},
+					"Translation":
+					{
+						"Text": "セルに移動して保持します"
+					},
+					"Key": "FreeTuto_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press"
+					},
+					"Translation":
+					{
+						"Text": "押す"
+					},
+					"Key": "Press"
+				},
+				{
+					"Source":
+					{
+						"Text": "The spirit is invulnerable! Run or hide! "
+					},
+					"Translation":
+					{
+						"Text": "精神は無敵です！実行または非表示！"
+					},
+					"Key": "Motel_Invunerable"
+				},
+				{
+					"Source":
+					{
+						"Text": "To read the notes press"
+					},
+					"Translation":
+					{
+						"Text": "ノートを読むには、を押します"
+					},
+					"Key": "ReadNote"
+				},
+				{
+					"Source":
+					{
+						"Text": "To view the map and find the spiritual bonfire press"
+					},
+					"Translation":
+					{
+						"Text": "地図を表示してスピリチュアルな焚き火プレスを見つけるには"
+					},
+					"Key": "Bonfire"
+				},
+				{
+					"Source":
+					{
+						"Text": "Your allie has been caught. Go to him and hold "
+					},
+					"Translation":
+					{
+						"Text": "あなたの味方は捕まりました。彼のところに行って"
+					},
+					"Key": "Motel_Free_1"
+				},
+				{
+					"Source":
+					{
+						"Text": "to equip gun."
+					},
+					"Translation":
+					{
+						"Text": "銃を装備する。"
+					},
+					"Key": "EquipGun"
+				},
+				{
+					"Source":
+					{
+						"Text": "to free your friend."
+					},
+					"Translation":
+					{
+						"Text": "友達を解放します。"
+					},
+					"Key": "FreeTuto_2"
+				},
+				{
+					"Source":
+					{
+						"Text": "to open inventory."
+					},
+					"Translation":
+					{
+						"Text": "在庫を開きます。"
+					},
+					"Key": "Inventory"
+				},
+				{
+					"Source":
+					{
+						"Text": "to view the passwords and use on the password panel"
+					},
+					"Translation":
+					{
+						"Text": "パスワードを表示し、パスワードパネルで使用するには"
+					},
+					"Key": "PasswordTuto"
+				}
+			]
+		}
+	]
+}
