@@ -17,6 +17,8 @@ Want to add a new language or have questions? Email for Glaicon at glaiconffelip
 
 Chased by Darkness Official Discord - https://discord.gg/7Ncna2P7hH
 
+Thanks for taking an interest in participating in the community translation, your support is very important!
+
 
 # Tips:
 
