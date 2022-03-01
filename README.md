@@ -15,6 +15,8 @@ Receive news of new content in advance. <br />
 
 Want to add a new language or have questions? Email for Glaicon at glaiconffelipe@southbluemoon.com or send a message on Discord - GlaiconFFBR#3891
 
+Chased by Darkness Official Discord - discord.gg/7Ncna2P7hH
+
 
 # Tips:
 
