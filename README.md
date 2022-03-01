@@ -28,7 +28,7 @@ New to GitHub? Read this guide: https://docs.github.com/en/get-started/quickstar
 
 Avoid automatic translators (like Google Translate) as much as possible.
 
-If necessary, you are free to consult a dictionary.
+If necessary, you can consult a dictionary.
 
 
 
