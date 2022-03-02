@@ -9,7 +9,7 @@ By contributing to this project, you will receive the Translator role on Chased 
 Your contribution will appear in the game's credits. <br />
 Chance to participate in new map Beta tests. <br />
 Receive news of new content in advance. <br />
-(We are looking into the possibility of exclusive a skin in the game.)
+(We are looking into the possibility of a exclusive skin in the game.)
 
 
 Want to add a new language or have questions? Email for Glaicon at glaiconffelipe@southbluemoon.com or send a message on Discord - GlaiconFFBR#3891
